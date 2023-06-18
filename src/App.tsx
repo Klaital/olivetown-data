@@ -1,25 +1,39 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import icon from './logo-af-64.png';
+import FlowersPage from "./flowers/FlowersPage";
+
+import { BrowserRouter as Router, Routes, Route, NavLink } from "react-router-dom";
+import HomePage from "./home/HomePage";
+import CookingPage from "./cooking/CookingPage";
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+      <Router>
+          <header className="sticky">
+              <span className="logo">
+                  <img src={icon} alt="logo" width="64" height="64" />
+              </span>
+              <NavLink to={process.env.PUBLIC_URL + '/'} className="button rounded">
+                  <span className="icon-home"></span>
+                  Home
+              </NavLink>
+              <NavLink to={process.env.PUBLIC_URL + "/flowers"} className="button rounded">
+                  Flowers
+              </NavLink>
+              <NavLink to={process.env.PUBLIC_URL + "/cooking"} className="button rounded">
+                  Cooking
+              </NavLink>
+          </header>
+          <div className="container">
+              <Routes>
+                  <Route path={process.env.PUBLIC_URL + '/'} element={<HomePage />} />
+                  <Route path={process.env.PUBLIC_URL + "/flowers"} element={<FlowersPage />} />
+                  <Route path={process.env.PUBLIC_URL + "/cooking"} element={<CookingPage />} />
+              </Routes>
+          </div>
+      </Router>
   );
 }
 
