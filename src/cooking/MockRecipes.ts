@@ -473,4 +473,334 @@ export const MOCK_RECIPES = [
         topping: 'Mixed Herbs',
         howTo: '',
     }),
+
+    // Entrees
+    new Recipe({
+        name: 'Grilled Fish',
+        group: 'Entrees',
+        rank: 1,
+        ingredients: [
+            'Fish Group',
+        ],
+        topping: 'Lemon',
+        howTo: '',
+    }),
+    new Recipe({
+        name: 'Fried Egg',
+        group: 'Entrees',
+        rank: 1,
+        ingredients: [
+            'Egg Group',
+        ],
+        topping: 'Soy Sauce',
+        howTo: '',
+    }),
+    new Recipe({
+        name: 'Vegetable Sandwich',
+        group: 'Entrees',
+        rank: 2,
+        ingredients: [
+            'Bread Group',
+            'Vegetable Group',
+            'Wild Berry',
+        ],
+        topping: 'Mayonnaise',
+        howTo: '',
+    }),
+    new Recipe({
+        name: 'Curry Rice',
+        group: 'Entrees',
+        rank: 2,
+        ingredients: [
+            'Cooked White Rice',
+            'Mixed Spices',
+            'Potato',
+        ],
+        topping: 'Onion',
+        howTo: '',
+    }),
+    new Recipe({
+        name: 'Egg Sandwich',
+        group: 'Entrees',
+        rank: 2,
+        ingredients: [
+            'Bread Group',
+            'Egg Group',
+        ],
+        topping: 'Mayonnaise',
+        howTo: '',
+    }),
+    new Recipe({
+        name: 'Omelet',
+        group: 'Entrees',
+        rank: 3,
+        ingredients: [
+            'Egg Group',
+            'Tomato'
+        ],
+        topping: 'Mayonnaise',
+        howTo: '',
+    }),
+    new Recipe({
+        name: 'Mala Crayfish',
+        group: 'Entrees',
+        rank: 3,
+        ingredients: [
+            'Crayfish',
+            'Mixed Spices',
+            'Mixed Herbs',
+        ],
+        topping: 'Black Pepper',
+        howTo: '',
+    }),
+    new Recipe({
+        name: 'Shrimp Toast',
+        group: 'Entrees',
+        rank: 3,
+        ingredients: [
+            'Shrimp Group',
+            'Soy Sauce',
+            'Bread Group',
+        ],
+        topping: 'Black Pepper',
+        howTo: '',
+    }),
+    new Recipe({
+        name: 'Okra Curry',
+        group: 'Entrees',
+        rank: 3,
+        ingredients: [
+            'Cooked White Rice',
+            'Okra',
+            'Black Pepper',
+            'Mixed Spices'
+        ],
+        topping: 'Yogurt',
+        howTo: '',
+    }),
+    new Recipe({
+        name: 'Sea Bream Sashimi',
+        group: 'Entrees',
+        rank: 4,
+        ingredients: [
+            'Sea Bream',
+            'Soy Sauce'
+        ],
+        topping: 'Flounder',
+        howTo: '',
+    }),
+    new Recipe({
+        name: 'Chuka Soba',
+        group: 'Entrees',
+        rank: 4,
+        ingredients: [
+            'Soy Sauce',
+            'Small Fish Group',
+            'Flour'
+        ],
+        topping: 'Bamboo Shoot',
+        howTo: '',
+    }),
+    new Recipe({
+        name: 'Chili Shrimp',
+        group: 'Entrees',
+        rank: 4,
+        ingredients: [
+            'Giant Freshwater Prawn',
+            'Tomato',
+            'Chili Pepper'
+        ],
+        topping: 'Mixed Spices',
+        howTo: '',
+    }),
+    new Recipe({
+        name: 'Tempura',
+        group: 'Entrees',
+        rank: 1,
+        ingredients: [
+            'Flour',
+            'Giant Tiger Shrimp',
+            'Vegetable Group',
+            'Oyster',
+        ],
+        topping: 'Salt',
+        howTo: '',
+    }),
+    new Recipe({
+        name: 'Pescatore',
+        group: 'Entrees',
+        rank: 4,
+        ingredients: [
+            'Flour',
+            'Shrimp Group',
+            'Mussel',
+            'Tomato',
+        ],
+        topping: 'Sage',
+        howTo: '',
+    }),
+    new Recipe({
+        name: 'Unaju',
+        group: 'Entrees',
+        rank: 4,
+        ingredients: [
+            'Cooked White Rice',
+            'Eel',
+            'Soy Sauce',
+            'Sugar'
+        ],
+        topping: 'Mixed Herbs',
+        howTo: '',
+    }),
+    new Recipe({
+        name: 'Baked Beans',
+        group: 'Entrees',
+        rank: 5,
+        ingredients: [
+            'Beans',
+            'Green Pepper',
+            'Black Pepper',
+        ],
+        topping: 'Olive',
+        howTo: '',
+    }),
+    new Recipe({
+        name: 'Pizza',
+        group: 'Entrees',
+        rank: 5,
+        ingredients: [
+            'Flour',
+            'Tomato',
+            'Cheese'
+        ],
+        topping: 'Pineapple',
+        howTo: '',
+    }),
+    new Recipe({
+        name: 'Kitsune Udon',
+        group: 'Entrees',
+        rank: 5,
+        ingredients: [
+            'Soy Sauce',
+            'Beans',
+            'Flour'
+        ],
+        topping: 'Leek',
+        howTo: '',
+    }),
+    new Recipe({
+        name: 'Neapolitan Pasta',
+        group: 'Entrees',
+        rank: 5,
+        ingredients: [
+            'Flour',
+            'Tomato',
+            'Onion',
+            'Green Pepper',
+        ],
+        topping: 'Sage',
+        howTo: 'Eat at the Cafe',
+    }),
+    new Recipe({
+        name: 'Chestnut Rice',
+        group: 'Entrees',
+        rank: 5,
+        ingredients: [
+            'Cooked White Rice',
+            'Chestnut',
+            'Sweet Potato'
+        ],
+        topping: 'Matsutake Mushroom',
+        howTo: '',
+    }),
+    new Recipe({
+        name: 'Boiled Fish',
+        group: 'Entrees',
+        rank: 5,
+        ingredients: [
+            'Medium Fish Group',
+            'Daikon Radish',
+            'Soy Sauce'
+        ],
+        topping: 'Sugar',
+        howTo: '',
+    }),
+    new Recipe({
+        name: 'Vegetable Pizza',
+        group: 'Entrees',
+        rank: 6,
+        ingredients: [
+            'Flour',
+            'Vegetable Group',
+            'Broccoli',
+            'Cheese'
+        ],
+        topping: 'Wild Berry',
+        howTo: '',
+    }),
+    new Recipe({
+        name: 'Ratatouille',
+        group: 'Entrees',
+        rank: 6,
+        ingredients: [
+            'Chili Pepper',
+            'Zucchini',
+            'Black Pepper',
+            'Eggplant'
+        ],
+        topping: 'Olive',
+        howTo: '',
+    }),
+    new Recipe({
+        name: 'Calçots',
+        group: 'Entrees',
+        rank: 6,
+        ingredients: [
+            'Leek',
+            'Olive Oil',
+            'Salt',
+            'Black Pepper'
+        ],
+        topping: 'Almond',
+        howTo: '',
+    }),
+    new Recipe({
+        name: 'Sashimi Bowl',
+        group: 'Entrees',
+        rank: 6,
+        ingredients: [
+            'Cooked White Rice',
+            'Salmon',
+            'Oyster',
+            'Rock Lobster'
+        ],
+        topping: 'Soy Sauce',
+        howTo: '',
+    }),
+    new Recipe({
+        name: 'Seafood Cataplana',
+        group: 'Entrees',
+        rank: 6,
+        ingredients: [
+            'Bok Choy',
+            'Mahi-mahi',
+            'Crab Group',
+            'Cuttlefish'
+        ],
+        topping: 'Abalone',
+        howTo: '',
+    }),
+    new Recipe({
+        name: 'Brothy Fried Vegetables',
+        group: 'Entrees',
+        rank: 6,
+        ingredients: [
+            'Eggplant',
+            'Pumpkin',
+            'Okra',
+
+        ],
+        topping: 'Soy Sauce',
+        howTo: '',
+    }),
 ]
