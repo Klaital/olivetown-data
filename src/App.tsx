@@ -6,6 +6,7 @@ import FlowersPage from "./flowers/FlowersPage";
 import { BrowserRouter as Router, Routes, Route, NavLink } from "react-router-dom";
 import HomePage from "./home/HomePage";
 import CookingPage from "./cooking/CookingPage";
+import CropsPage from "./crops/CropsPage";
 
 
 function App() {
@@ -25,12 +26,16 @@ function App() {
               <NavLink to={process.env.PUBLIC_URL + "/cooking"} className="button rounded">
                   Cooking
               </NavLink>
+              <NavLink to={process.env.PUBLIC_URL + "/crops"} className="button rounded">
+                  Crops
+              </NavLink>
           </header>
           <div className="container">
               <Routes>
                   <Route path={process.env.PUBLIC_URL + '/'} element={<HomePage />} />
                   <Route path={process.env.PUBLIC_URL + "/flowers"} element={<FlowersPage />} />
                   <Route path={process.env.PUBLIC_URL + "/cooking"} element={<CookingPage />} />
+                  <Route path={process.env.PUBLIC_URL + "/crops"} element={<CropsPage />} />
               </Routes>
           </div>
       </Router>
