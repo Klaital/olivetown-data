@@ -1,15 +1,25 @@
 import {ChangeEvent, useState} from "react";
 import {MOCK_CROPS} from "./MockCrops";
-
+import './table.css'
 const ALL_SEASONS = ['Spring', 'Summer', 'Autumn', 'Winter']
+const ALL_CROP_TYPES = ['Field', 'Flower', 'Tree']
 export default function CropsPage() {
     const [seasons, setSeasons] = useState(ALL_SEASONS);
+    const [cropTypes, setCropTypes ] = useState(ALL_CROP_TYPES);
 
     const handleSeasonSelect = (e: ChangeEvent<HTMLInputElement>) => {
         if (e.target.checked) {
             setSeasons(seasons.concat([e.target.id]));
         } else {
             setSeasons(seasons.filter((s) => s !== e.target.id))
+        }
+    }
+
+    const handleCropTypeSelect = (e: ChangeEvent<HTMLInputElement>) => {
+        if (e.target.checked) {
+            setCropTypes(cropTypes.concat([e.target.id]));
+        } else {
+            setCropTypes(cropTypes.filter((s) => s !== e.target.id))
         }
     }
     return (
@@ -28,15 +38,30 @@ export default function CropsPage() {
                         {name}
                     </label>
                 ))}
-
+                <h2>Crop Types</h2>
+                {ALL_CROP_TYPES.map(name => (
+                    <label htmlFor={name}>
+                        <input
+                            type="checkbox"
+                            id={name}
+                            checked={cropTypes.includes(name)}
+                            onChange={handleCropTypeSelect}
+                        />
+                        {name}
+                    </label>
+                ))}
             </form>
-            <CropsList seasons={seasons} />
+            <CropsList
+                seasons={seasons}
+                cropTypes={cropTypes}
+            />
         </div>
     )
 }
 
-function CropsList(props: {seasons:string[]}) {
-    let cropset = MOCK_CROPS.filter(crop => crop.Seasons.some(s => props.seasons.includes(s)))
+function CropsList(props: {seasons:string[], cropTypes:string[]}) {
+    let cropSet = MOCK_CROPS.filter(crop => crop.Seasons.some(s => props.seasons.includes(s)))
+    cropSet = cropSet.filter(crop => props.cropTypes.includes(crop.Type.toString()))
     return (
         <table>
             <thead>
@@ -49,16 +74,16 @@ function CropsList(props: {seasons:string[]}) {
             </tr>
             </thead>
             <tbody>
-            {cropset.map(crop => (
+            {cropSet.map(crop => (
                 <tr>
-                    <td>{crop.Name}</td>
-                    <td>
+                    <td data-label="Seed">{crop.Name}</td>
+                    <td data-label="Seasons">
                         <ul>{crop.Seasons.map((s) => (
                             <li>{s.toString()}</li>
                         ))}</ul>
                     </td>
-                    <td>{crop.HasHQ}</td>
-                    <td>{crop.Growth?.Time}</td>
+                    <td data-label="Has HQ">{crop.HasHQ}</td>
+                    <td data-label="Days To Grow">{crop.Growth?.Time}</td>
                     <td>{crop.Growth?.LastDay}</td>
                 </tr>
             ))}

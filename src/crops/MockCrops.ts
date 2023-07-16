@@ -12,11 +12,17 @@ enum Season {
     Winter = 'Winter',
 }
 
+enum CropType {
+    Field = 'Field',
+    Flower = 'Flower',
+    Tree = 'Tree',
+}
+
 type Crop = {
     Name: string;
     SellPrice?: number;
     SeedPrice?: number;
-    HasHQ: boolean;
+    HasHQ: string;
     Seasons: Season[];
     Yield?: number;
     Growth?: {
@@ -29,541 +35,783 @@ type Crop = {
         Time: number;
     };
     HoneyType?: Hive;
+    Type: CropType;
 }
 
 export const MOCK_CROPS: Crop[] = [
     {
         Name: 'Potato',
-        HasHQ: true,
+        HasHQ: 'Star Potato',
         Seasons: [
             Season.Spring,
             Season.Summer,
             Season.Winter,
         ],
+        Type: CropType.Field,
+        Growth: {
+            Time: 6,
+            LastDay: 'Summer 22',
+            Yield: 4,
+        },
     },
     {
         Name: 'Turnip',
-        HasHQ: true,
+        HasHQ: 'Giant Turnip',
         Seasons: [
             Season.Spring,
             Season.Summer,
             Season.Winter,
         ],
+        Type: CropType.Field,
+        Growth: {
+            Time: 4,
+            LastDay: 'Spring 24',
+            Yield: 1,
+        },
     },
     {
         Name: 'Cucumber',
-        HasHQ: false,
+        HasHQ: '',
         Seasons: [
             Season.Spring,
         ],
+        Type: CropType.Field,
+        Growth: {
+            Time: 7,
+            LastDay: 'Spring 21 (Spring 7 for all 3 yields)',
+            Yield: 3,
+        },
     },
     {
         Name: 'Onion',
-        HasHQ: false,
+        HasHQ: '',
         Seasons: [
             Season.Spring,
             Season.Summer,
         ],
+        Type: CropType.Field,
+        Growth: {
+            Time: 6,
+            LastDay: 'Summer 22',
+            Yield: 1,
+        },
     },
     {
         Name: 'Strawberry',
-        HasHQ: true,
+        HasHQ: 'Golden Strawberry',
         Seasons: [
             Season.Spring,
         ],
+        Type: CropType.Field,
+        Growth: {
+            Time: 8,
+            LastDay: 'Spring 20',
+            Yield: 3,
+        },
     },
     {
         Name: 'Garlic',
-        HasHQ: false,
+        HasHQ: '',
         Seasons: [
             Season.Spring,
         ],
+        Type: CropType.Field,
+        Growth: {
+            Time: 5,
+            LastDay: 'Spring 23 (Spring 13 for all 3 yields)',
+            Yield: 1,
+        },
     },
     {
         Name: 'Zucchini',
-        HasHQ: false,
+        HasHQ: '',
         Seasons: [
             Season.Summer,
         ],
+        Type: CropType.Field,
+        Growth: {
+            Time: 8,
+            LastDay: 'Summer 20',
+            Yield: 2,
+        },
     },
     {
         Name: 'Pumpkin',
-        HasHQ: false,
+        HasHQ: '',
         Seasons: [
             Season.Summer,
         ],
+        Type: CropType.Field,
+        Growth: {
+            Time: 5,
+            LastDay: 'Summer 23',
+            Yield: 1,
+        },
     },
     {
         Name: 'Corn',
-        HasHQ: true,
+        HasHQ: 'Mosaic Corn',
         Seasons: [
             Season.Summer,
         ],
+        Type: CropType.Field,
+        Growth: {
+            Time: 8,
+            LastDay: 'Summer 20',
+            Yield: 1,
+        },
     },
     {
         Name: 'Tomato',
-        HasHQ: true,
+        HasHQ: 'Giant Tomato',
         Seasons: [
             Season.Summer,
             Season.Autumn,
         ],
+        Type: CropType.Field,
+        Growth: {
+            Time: 6,
+            LastDay: 'Autumn 22 (Autumn 10 for all 3 yields)',
+            Yield: 3,
+        },
     },
     {
         Name: 'Pepper',
-        HasHQ: false,
+        HasHQ: '',
         Seasons: [
             Season.Summer,
             Season.Autumn,
         ],
+        Type: CropType.Field,
+        Growth: {
+            Time: 7,
+            LastDay: 'Summer 21 (Summer 7 for all 3 yields)',
+            Yield: 3,
+        },
     },
     {
         Name: 'Eggplant',
-        HasHQ: true,
+        HasHQ: 'Round Eggplant',
         Seasons: [
             Season.Summer,
             Season.Autumn,
         ],
+        Type: CropType.Field,
+        Growth: {
+            Time: 7,
+            LastDay: 'Autumn 21',
+            Yield: 3,
+        },
     },
     {
         Name: 'Melon',
-        HasHQ: true,
+        HasHQ: 'Jewel Melon',
         Seasons: [
             Season.Summer,
             Season.Autumn,
         ],
+        Type: CropType.Field,
+        Growth: {
+            Time: 7,
+            LastDay: 'Autumn 21',
+            Yield: 1,
+        },
     },
     {
         Name: 'Green Pepper',
-        HasHQ: false,
+        HasHQ: '',
         Seasons: [
             Season.Summer,
             Season.Autumn,
         ],
+        Type: CropType.Field,
+        Growth: {
+            Time: 8,
+            LastDay: 'Autumn 20 (Autumn 4 for all 3 yields)',
+            Yield: 4,
+        },
     },
     {
         Name: 'Pineapple',
-        HasHQ: false,
+        HasHQ: '',
         Seasons: [
             Season.Summer,
         ],
+        Type: CropType.Field,
+        Growth: {
+            Time: 6,
+            LastDay: 'Summer 22',
+            Yield: 1,
+        },
     },
     {
         Name: 'Watermelon',
-        HasHQ: false,
+        HasHQ: '',
         Seasons: [
             Season.Summer
         ],
+        Type: CropType.Field,
+        Growth: {
+            Time: 9,
+            LastDay: 'Summer 19',
+            Yield: 1,
+        },
     },
     {
         Name: 'Spinach',
-        HasHQ: true,
+        HasHQ: 'Heart Spinach',
         Seasons: [
             Season.Autumn,
         ],
+        Type: CropType.Field,
+        Growth: {
+            Time: 4,
+            LastDay: 'Autumn 24',
+            Yield: 1,
+        },
     },
     {
         Name: 'Carrot',
-        HasHQ: false,
+        HasHQ: '',
         Seasons: [
             Season.Autumn,
             Season.Winter
         ],
+        Type: CropType.Field,
+        Growth: {
+            Time: 5,
+            LastDay: 'Winter 23',
+            Yield: 1,
+        },
     },
     {
         Name: 'Okra',
-        HasHQ: false,
+        HasHQ: '',
         Seasons: [
             Season.Autumn,
-
         ],
+        Type: CropType.Field,
+        Growth: {
+            Time: 8,
+            LastDay: 'Autumn 20 (Autumn 4 for all 3 yields)',
+            Yield: 4,
+        },
     },
     {
         Name: 'Bok Choy',
-        HasHQ: false,
+        HasHQ: '',
         Seasons: [
             Season.Autumn,
             Season.Winter
         ],
+        Type: CropType.Field,
+        Growth: {
+            Time: 9,
+            LastDay: 'Winter 19',
+            Yield: 2,
+        },
     },
     {
         Name: 'Sweet Potato',
-        HasHQ: true,
+        HasHQ: 'Giant Sweet Potato',
         Seasons: [
             Season.Autumn,
-
         ],
+        Type: CropType.Field,
+        Growth: {
+            Time: 6,
+            LastDay: 'Autumn 22 (Autumn 10 for all 3 yields)',
+            Yield: 1,
+        },
     },
     {
         Name: 'Chili Pepper',
-        HasHQ: false,
+        HasHQ: '',
         Seasons: [
             Season.Autumn,
-
         ],
+        Type: CropType.Field,
+        Growth: {
+            Time: 9,
+            LastDay: 'Autumn 19',
+            Yield: 3,
+        },
     },
     {
         Name: 'Daikon Radish',
-        HasHQ: true,
+        HasHQ: 'Fork-root Daikon',
         Seasons: [
             Season.Spring,
             Season.Winter
         ],
+        Type: CropType.Field,
+        Growth: {
+            Time: 4,
+            LastDay: 'Spring 24',
+            Yield: 1,
+        },
     },
     {
         Name: 'Burdock',
-        HasHQ: false,
+        HasHQ: '',
         Seasons: [
             Season.Winter
         ],
+        Type: CropType.Field,
+        Growth: {
+            Time: 7,
+            LastDay: 'Winter 21',
+            Yield: 3,
+        },
     },
     {
         Name: 'Broccoli',
-        HasHQ: false,
+        HasHQ: '',
         Seasons: [
             Season.Spring,
             Season.Winter
         ],
+        Type: CropType.Field,
+        Growth: {
+            Time: 6,
+            LastDay: 'Spring 22 (Spring 10 for all 3 yields)',
+            Yield: 3,
+        },
     },
     {
         Name: 'Cabbage',
-        HasHQ: false,
+        HasHQ: '',
         Seasons: [
             Season.Spring,
             Season.Winter
         ],
+        Type: CropType.Field,
+        Growth: {
+            Time: 7,
+            LastDay: 'Spring 21',
+            Yield: 1,
+        },
     },
     {
         Name: 'Napa Cabbage',
-        HasHQ: true,
+        HasHQ: 'Golden Napa Cabbage',
         Seasons: [
             Season.Winter
         ],
+        Type: CropType.Field,
+        Growth: {
+            Time: 6,
+            LastDay: 'Winter 22',
+            Yield: 1,
+        },
     },
     {
         Name: 'Leek',
-        HasHQ: true,
+        HasHQ: 'Giant Leek',
         Seasons: [
             Season.Winter
         ],
+        Type: CropType.Field,
+        Growth: {
+            Time: 4,
+            LastDay: 'Winter 24',
+            Yield: 4,
+        },
     },
     {
         Name: 'Radish',
-        HasHQ: false,
+        HasHQ: '',
         Seasons: [
             Season.Spring,
             Season.Summer,
             Season.Autumn,
         ],
+        Type: CropType.Field,
+        Growth: {
+            Time: 5,
+            LastDay: 'Autumn 23',
+            Yield: 4,
+        },
     },
     {
         Name: 'Fodder',
-        HasHQ: false,
+        HasHQ: '',
         Seasons: [
             Season.Spring,
             Season.Summer,
             Season.Autumn,
         ],
+        Type: CropType.Field,
+        Growth: {
+            Time: 6,
+            LastDay: 'Autumn 23 (Summer 26 for all 6 yields)',
+            Yield: 3,
+        },
     },
     {
         Name: 'Tea Leaf',
-        HasHQ: false,
+        HasHQ: '',
         Seasons: [
             Season.Spring,
             Season.Summer,
             Season.Autumn,
         ],
+        Type: CropType.Field,
+        Growth: {
+            Time: 12,
+            LastDay: 'Autumn 16',
+            Yield: 5,
+        },
     },
     {
         Name: 'Wheat',
-        HasHQ: false,
+        HasHQ: '',
         Seasons: [
             Season.Spring,
             Season.Summer,
             Season.Autumn,
         ],
+        Type: CropType.Field,
+        Growth: {
+            Time: 12,
+            LastDay: 'Autumn 16',
+            Yield: 5,
+        },
     },
     {
         Name: 'Beans',
-        HasHQ: false,
+        HasHQ: '',
         Seasons: [
             Season.Spring,
             Season.Summer,
             Season.Autumn,
         ],
+        Type: CropType.Field,
+        Growth: {
+            Time: 15,
+            LastDay: 'Autumn 16',
+            Yield: 5,
+        },
     },
     {
         Name: 'Rice',
-        HasHQ: false,
+        HasHQ: '',
         Seasons: [
             Season.Spring,
             Season.Summer,
             Season.Autumn,
         ],
+        Type: CropType.Field,
+        Growth: {
+            Time: 14,
+            LastDay: 'Autumn 14',
+            Yield: 6,
+        },
     },
 
     // Flowers
     {
         Name: 'Tulip',
-        HasHQ: false,
+        HasHQ: '',
         Seasons: [
             Season.Spring
         ],
         HoneyType: Hive.Honey,
+        Type: CropType.Flower,
     },
     {
         Name: 'Nemophila',
-        HasHQ: false,
+        HasHQ: '',
         Seasons: [
             Season.Spring
         ],
         HoneyType: Hive.Honey,
+        Type: CropType.Flower,
     },
     {
         Name: 'Pansy',
-        HasHQ: false,
+        HasHQ: '',
         Seasons: [
             Season.Spring
         ],
         HoneyType: Hive.Honey,
+        Type: CropType.Flower,
     },
     {
         Name: 'Buttercup',
-        HasHQ: false,
+        HasHQ: '',
         Seasons: [
             Season.Spring
         ],
         HoneyType: Hive.Comb,
+        Type: CropType.Flower,
     },
     {
         Name: 'Black Pansy',
-        HasHQ: false,
+        HasHQ: '',
         Seasons: [
             Season.Spring
         ],
         HoneyType: Hive.Worker,
+        Type: CropType.Flower,
     },
     {
         Name: 'Hibiscus',
-        HasHQ: false,
+        HasHQ: '',
         Seasons: [
             Season.Summer
         ],
         HoneyType: Hive.Honey,
+        Type: CropType.Flower,
     },
     {
         Name: 'Petunia',
-        HasHQ: false,
+        HasHQ: '',
         Seasons: [
             Season.Summer
         ],
         HoneyType: Hive.Honey,
+        Type: CropType.Flower,
     },
     {
         Name: 'Marigold',
-        HasHQ: false,
+        HasHQ: '',
         Seasons: [
             Season.Summer
         ],
         HoneyType: Hive.Honey,
+        Type: CropType.Flower,
     },
     {
         Name: 'Sunflower',
-        HasHQ: false,
+        HasHQ: '',
         Seasons: [
             Season.Summer
         ],
         HoneyType: Hive.Comb,
+        Type: CropType.Flower,
     },
     {
         Name: 'Lily',
-        HasHQ: false,
+        HasHQ: '',
         Seasons: [
             Season.Summer
         ],
         HoneyType: Hive.Worker,
+        Type: CropType.Flower,
     },
     {
         Name: 'Rose',
-        HasHQ: false,
+        HasHQ: '',
         Seasons: [
             Season.Autumn
         ],
         HoneyType: Hive.Honey,
+        Type: CropType.Flower,
     },
     {
         Name: 'Mum',
-        HasHQ: false,
+        HasHQ: '',
         Seasons: [
             Season.Autumn
         ],
         HoneyType: Hive.Honey,
+        Type: CropType.Flower,
     },
     {
         Name: 'Clematis',
-        HasHQ: false,
+        HasHQ: '',
         Seasons: [
             Season.Autumn
         ],
         HoneyType: Hive.Comb,
+        Type: CropType.Flower,
     },
     {
         Name: 'Daisy',
-        HasHQ: false,
+        HasHQ: '',
         Seasons: [
             Season.Autumn
         ],
         HoneyType: Hive.Worker,
+        Type: CropType.Flower,
     },
     {
         Name: 'Black Rose',
-        HasHQ: false,
+        HasHQ: '',
         Seasons: [
             Season.Autumn
         ],
         HoneyType: Hive.Worker,
+        Type: CropType.Flower,
     },
     {
         Name: 'Cineraria',
-        HasHQ: false,
+        HasHQ: '',
         Seasons: [
             Season.Winter
         ],
         HoneyType: Hive.Honey,
+        Type: CropType.Flower,
     },
     {
         Name: 'Primrose',
-        HasHQ: false,
+        HasHQ: '',
         Seasons: [
             Season.Winter
         ],
         HoneyType: Hive.Honey,
+        Type: CropType.Flower,
+        Growth: {
+            Time: 4,
+            LastDay: 'Winter 24',
+            Yield: 1,
+        },
     },
     {
         Name: 'Begonia',
-        HasHQ: false,
+        HasHQ: '',
         Seasons: [
             Season.Winter
         ],
         HoneyType: Hive.Worker,
+        Type: CropType.Flower,
     },
     {
         Name: 'Campanula',
-        HasHQ: false,
+        HasHQ: '',
         Seasons: [
             Season.Winter
         ],
         HoneyType: Hive.Worker,
+        Type: CropType.Flower,
     },
     {
         Name: 'Hellebore',
-        HasHQ: false,
+        HasHQ: '',
         Seasons: [
             Season.Winter
         ],
         Growth: {
             Yield: 1,
             Time: 6,
+            LastDay: 'Winter 22',
         },
         HoneyType: Hive.Royal,
+        Type: CropType.Flower,
     },
 
     // Trees
     {
         Name: 'Coffee Bean',
-        HasHQ: false,
+        HasHQ: '',
         Seasons: [
             Season.Spring,
         ],
+        Type: CropType.Tree,
     },
     {
         Name: 'Cherry',
-        HasHQ: false,
+        HasHQ: '',
         Seasons: [
             Season.Spring,
-        ]
+        ],
+        Type: CropType.Tree,
     },
     {
         Name: 'Orange',
-        HasHQ: false,
+        HasHQ: '',
         Seasons: [
             Season.Spring,
-        ]
+        ],
+        Type: CropType.Tree,
     },
     {
         Name: 'Avocado',
-        HasHQ: true,
+        HasHQ: 'Giant Avocado',
         Seasons: [
             Season.Spring,
-        ]
+        ],
+        Type: CropType.Tree,
     },
     {
         Name: 'Almond',
-        HasHQ: false,
+        HasHQ: '',
         Seasons: [
             Season.Summer,
-        ]
+        ],
+        Type: CropType.Tree,
     },
     {
         Name: 'Lemon',
-        HasHQ: false,
+        HasHQ: '',
         Seasons: [
             Season.Summer,
-        ]
+        ],
+        Type: CropType.Tree,
     },
     {
         Name: 'Coconut',
-        HasHQ: false,
+        HasHQ: '',
         Seasons: [
             Season.Summer,
-        ]
+        ],
+        Type: CropType.Tree,
     },
     {
         Name: 'Banana',
-        HasHQ: false,
+        HasHQ: '',
         Seasons: [
             Season.Summer,
-        ]
+        ],
+        Type: CropType.Tree,
     },
     {
         Name: 'Cacao',
-        HasHQ: false,
+        HasHQ: '',
         Seasons: [
             Season.Summer,
-        ]
+        ],
+        Type: CropType.Tree,
     },
     {
         Name: 'Mango',
-        HasHQ: false,
+        HasHQ: '',
         Seasons: [
             Season.Summer,
-        ]
+        ],
+        Type: CropType.Tree,
     },
     {
         Name: 'Peach',
-        HasHQ: true,
+        HasHQ: 'Golden Peach',
         Seasons: [
             Season.Summer,
-        ]
+        ],
+        Type: CropType.Tree,
     },
     {
         Name: 'Apple',
-        HasHQ: true,
+        HasHQ: 'Golden Apple',
         Seasons: [
             Season.Autumn,
-        ]
+        ],
+        Type: CropType.Tree,
     },
     {
         Name: 'Grapes',
-        HasHQ: false,
+        HasHQ: '',
         Seasons: [
             Season.Autumn,
-        ]
+        ],
+        Type: CropType.Tree,
     },
     {
         Name: 'Olive',
-        HasHQ: false,
+        HasHQ: '',
         Seasons: [
             Season.Autumn,
-        ]
+        ],
+        Type: CropType.Tree,
     },
 ]

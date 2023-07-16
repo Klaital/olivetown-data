@@ -6,3 +6,7 @@ header {
 a.button.active {
     border: 1px solid var(--fore-color);
 }
+
+div.container {
+    min-height: 2000px;
+}

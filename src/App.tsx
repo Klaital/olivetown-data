@@ -32,7 +32,7 @@ function App() {
           </header>
           <div className="container">
               <Routes>
-                  <Route path={process.env.PUBLIC_URL + '/'} element={<HomePage />} />
+                  <Route path={process.env.PUBLIC_URL + '/'} element={<CropsPage />} />
                   <Route path={process.env.PUBLIC_URL + "/flowers"} element={<FlowersPage />} />
                   <Route path={process.env.PUBLIC_URL + "/cooking"} element={<CookingPage />} />
                   <Route path={process.env.PUBLIC_URL + "/crops"} element={<CropsPage />} />
