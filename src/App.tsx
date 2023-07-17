@@ -4,7 +4,6 @@ import icon from './logo-af-64.png';
 import FlowersPage from "./flowers/FlowersPage";
 
 import { BrowserRouter as Router, Routes, Route, NavLink } from "react-router-dom";
-import HomePage from "./home/HomePage";
 import CookingPage from "./cooking/CookingPage";
 import CropsPage from "./crops/CropsPage";
 

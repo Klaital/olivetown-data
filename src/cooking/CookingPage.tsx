@@ -1,4 +1,3 @@
-import {MOCK_RECIPES} from "./MockRecipes";
 import RecipeList from "./RecipeList";
 import {ChangeEvent, useState} from "react";
 import {Group} from "./Recipe";
@@ -61,7 +60,9 @@ export default function CookingPage() {
                 foodGroups={selectedGroups}
                 lovettLevel={lovettLevel}
             />
+
         </div>
     )
 }
+
 
