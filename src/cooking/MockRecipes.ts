@@ -1,7 +1,7 @@
 import {Recipe} from "./Recipe"
 
-export const MOCK_RECIPES = [
-    new Recipe({
+export const MOCK_RECIPES: Recipe[] = [
+    {
         name: 'Vegetable Salad',
         group: 'Salads',
         rank: 1,
@@ -11,8 +11,9 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Wild Plant Group',
         howTo: '',
-    }),
-    new Recipe({
+        LovettStars: 1,
+    },
+    {
         name: 'Potato Salad',
         group: 'Salads',
         rank: 2,
@@ -22,8 +23,8 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Apple',
         howTo: '',
-    }),
-    new Recipe({
+    },
+    {
         name: 'Mixed Salad',
         group: 'Salads',
         rank: 3,
@@ -34,8 +35,9 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Melon',
         howTo: '',
-    }),
-    new Recipe({
+        LovettStars: 2,
+    },
+    {
         name: 'Yum Woon Sen',
         group: 'Salads',
         rank: 4,
@@ -47,8 +49,9 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Garlic',
         howTo: '',
-    }),
-    new Recipe({
+        LovettStars: 6,
+    },
+    {
         name: 'Lyonnaise Potatoes',
         group: 'Salads',
         rank: 4,
@@ -59,8 +62,8 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Olive Oil',
         howTo: '',
-    }),
-    new Recipe({
+    },
+    {
         name: 'Egg Salad',
         group: 'Salads',
         rank: 5,
@@ -71,8 +74,8 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Avocado',
         howTo: '',
-    }),
-    new Recipe({
+    },
+    {
         name: 'Fruit Salad',
         group: 'Salads',
         rank: 5,
@@ -83,8 +86,8 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Pineapple',
         howTo: '',
-    }),
-    new Recipe({
+    },
+    {
         name: 'Small Fish Marinade',
         group: 'Salads',
         rank: 6,
@@ -96,8 +99,9 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Lemon',
         howTo: 'Eat at Capeside Bistro',
-    }),
-    new Recipe({
+        LovettStars: 4,
+    },
+    {
         name: 'Bean Salad',
         group: 'Salads',
         rank: 6,
@@ -108,8 +112,8 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Vinegar',
         howTo: '',
-    }),
-    new Recipe({
+    },
+    {
         name: 'Pickles',
         group: 'Salads',
         rank: 7,
@@ -120,8 +124,8 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Garlic',
         howTo: '',
-    }),
-    new Recipe({
+    },
+    {
         name: 'Mushroom Marinade',
         group: 'Salads',
         rank: 7,
@@ -133,8 +137,9 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Common Mushroom',
         howTo: '',
-    }),
-    new Recipe({
+        LovettStars: 6,
+    },
+    {
         name: 'Bhindi Masala',
         group: 'Salads',
         rank: 8,
@@ -146,8 +151,8 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Mixed Spices',
         howTo: '',
-    }),
-    new Recipe({
+    },
+    {
         name: 'Kinpira Gobo',
         group: 'Salads',
         rank: 8,
@@ -159,8 +164,8 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Mixed Herbs',
         howTo: '',
-    }),
-    new Recipe({
+    },
+    {
         name: 'Caprese Salad',
         group: 'Salads',
         rank: 9,
@@ -171,8 +176,8 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Olive Oil',
         howTo: '',
-    }),
-    new Recipe({
+    },
+    {
         name: 'Spinach Salad',
         group: 'Salads',
         rank: 9,
@@ -184,8 +189,8 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Salt',
         howTo: '',
-    }),
-    new Recipe({
+    },
+    {
         name: 'Rosolli',
         group: 'Salads',
         rank: 10,
@@ -197,8 +202,8 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Vinegar',
         howTo: '',
-    }),
-    new Recipe({
+    },
+    {
         name: 'Kimchi',
         group: 'Salads',
         rank: 10,
@@ -210,11 +215,11 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Sugar',
         howTo: '',
-    }),
+    },
 
     // Soups
 
-    new Recipe({
+    {
         name: 'Shellfish Soup',
         group: 'Soup',
         rank: 1,
@@ -223,8 +228,9 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Leek',
         howTo: '',
-    }),
-    new Recipe({
+        LovettStars: 1,
+    },
+    {
         name: 'Mixed Soup',
         group: 'Soup',
         rank: 2,
@@ -234,8 +240,8 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Black Pepper',
         howTo: '',
-    }),
-    new Recipe({
+    },
+    {
         name: 'Yellow Potage',
         group: 'Soup',
         rank: 2,
@@ -245,8 +251,8 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Pumpkin',
         howTo: '',
-    }),
-    new Recipe({
+    },
+    {
         name: 'Green Potage',
         group: 'Soup',
         rank: 3,
@@ -256,8 +262,8 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Spinach',
         howTo: '',
-    }),
-    new Recipe({
+    },
+    {
         name: 'Hot & Sour Soup',
         group: 'Soup',
         rank: 3,
@@ -268,8 +274,9 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Vinegar',
         howTo: '',
-    }),
-    new Recipe({
+        LovettStars: 2,
+    },
+    {
         name: 'Gazpacho',
         group: 'Soup',
         rank: 4,
@@ -280,8 +287,9 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Leek',
         howTo: '',
-    }),
-    new Recipe({
+        LovettStars: 4,
+    },
+    {
         name: 'Okra Soup',
         group: 'Soup',
         rank: 4,
@@ -292,8 +300,8 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Mixed Spices',
         howTo: '',
-    }),
-    new Recipe({
+    },
+    {
         name: 'Clam Chowder',
         group: 'Soup',
         rank: 5,
@@ -305,8 +313,8 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Cheese',
         howTo: '',
-    }),
-    new Recipe({
+    },
+    {
         name: 'Acqua Pazza',
         group: 'Soup',
         rank: 5,
@@ -318,8 +326,9 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Mixed Herbs',
         howTo: 'Eat at Capeside Bistro',
-    }),
-    new Recipe({
+        LovettStars: 6,
+    },
+    {
         name: 'Bouillabaisse',
         group: 'Soup',
         rank: 6,
@@ -331,8 +340,8 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Broccoli',
         howTo: '',
-    }),
-    new Recipe({
+    },
+    {
         name: 'Tom Yum Goong',
         group: 'Soup',
         rank: 6,
@@ -344,8 +353,8 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Mixed Herbs',
         howTo: '',
-    }),
-    new Recipe({
+    },
+    {
         name: 'Onion Soup',
         group: 'Soup',
         rank: 7,
@@ -357,8 +366,9 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Bread Group',
         howTo: '',
-    }),
-    new Recipe({
+        LovettStars: 6,
+    },
+    {
         name: 'Tteokguk',
         group: 'Soup',
         rank: 7,
@@ -370,8 +380,8 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Royal Fern',
         howTo: '',
-    }),
-    new Recipe({
+    },
+    {
         name: 'Sopa de Ajo',
         group: 'Soup',
         rank: 8,
@@ -383,8 +393,8 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Mixed Spices',
         howTo: '',
-    }),
-    new Recipe({
+    },
+    {
         name: 'Minestrone',
         group: 'Soup',
         rank: 8,
@@ -395,8 +405,8 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Garlic',
         howTo: '',
-    }),
-    new Recipe({
+    },
+    {
         name: 'Kenchin-jiru',
         group: 'Soup',
         rank: 9,
@@ -408,8 +418,8 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Salt',
         howTo: '',
-    }),
-    new Recipe({
+    },
+    {
         name: 'Oarfish Soup',
         group: 'Soup',
         rank: 9,
@@ -421,8 +431,8 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Shiitake Mushroom',
         howTo: '',
-    }),
-    new Recipe({
+    },
+    {
         name: 'Sour Cherry Soup',
         group: 'Soup',
         rank: 9,
@@ -434,8 +444,8 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Golden Rain Rosemary',
         howTo: '',
-    }),
-    new Recipe({
+    },
+    {
         name: 'Pot-au-Feu',
         group: 'Soup',
         rank: 10,
@@ -447,8 +457,8 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Salt',
         howTo: '',
-    }),
-    new Recipe({
+    },
+    {
         name: 'Borscht',
         group: 'Soup',
         rank: 10,
@@ -460,8 +470,8 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Lemon',
         howTo: '',
-    }),
-    new Recipe({
+    },
+    {
         name: 'Lemon Soup',
         group: 'Soup',
         rank: 10,
@@ -472,10 +482,10 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Mixed Herbs',
         howTo: '',
-    }),
+    },
 
     // Entrees
-    new Recipe({
+    {
         name: 'Grilled Fish',
         group: 'Entrees',
         rank: 1,
@@ -484,8 +494,8 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Lemon',
         howTo: '',
-    }),
-    new Recipe({
+    },
+    {
         name: 'Fried Egg',
         group: 'Entrees',
         rank: 1,
@@ -494,8 +504,9 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Soy Sauce',
         howTo: '',
-    }),
-    new Recipe({
+        LovettStars: 1,
+    },
+    {
         name: 'Vegetable Sandwich',
         group: 'Entrees',
         rank: 2,
@@ -506,8 +517,8 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Mayonnaise',
         howTo: '',
-    }),
-    new Recipe({
+    },
+    {
         name: 'Curry Rice',
         group: 'Entrees',
         rank: 2,
@@ -518,8 +529,9 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Onion',
         howTo: '',
-    }),
-    new Recipe({
+        LovettStars: 1,
+    },
+    {
         name: 'Egg Sandwich',
         group: 'Entrees',
         rank: 2,
@@ -529,8 +541,9 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Mayonnaise',
         howTo: '',
-    }),
-    new Recipe({
+        LovettStars: 4,
+    },
+    {
         name: 'Omelet',
         group: 'Entrees',
         rank: 3,
@@ -540,8 +553,8 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Mayonnaise',
         howTo: '',
-    }),
-    new Recipe({
+    },
+    {
         name: 'Mala Crayfish',
         group: 'Entrees',
         rank: 3,
@@ -552,8 +565,9 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Black Pepper',
         howTo: '',
-    }),
-    new Recipe({
+        LovettStars: 1,
+    },
+    {
         name: 'Shrimp Toast',
         group: 'Entrees',
         rank: 3,
@@ -564,8 +578,8 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Black Pepper',
         howTo: '',
-    }),
-    new Recipe({
+    },
+    {
         name: 'Okra Curry',
         group: 'Entrees',
         rank: 3,
@@ -577,8 +591,8 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Yogurt',
         howTo: '',
-    }),
-    new Recipe({
+    },
+    {
         name: 'Sea Bream Sashimi',
         group: 'Entrees',
         rank: 4,
@@ -588,8 +602,8 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Flounder',
         howTo: '',
-    }),
-    new Recipe({
+    },
+    {
         name: 'Chuka Soba',
         group: 'Entrees',
         rank: 4,
@@ -600,8 +614,8 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Bamboo Shoot',
         howTo: '',
-    }),
-    new Recipe({
+    },
+    {
         name: 'Chili Shrimp',
         group: 'Entrees',
         rank: 4,
@@ -612,8 +626,8 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Mixed Spices',
         howTo: '',
-    }),
-    new Recipe({
+    },
+    {
         name: 'Tempura',
         group: 'Entrees',
         rank: 1,
@@ -625,8 +639,9 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Salt',
         howTo: '',
-    }),
-    new Recipe({
+        LovettStars: 2,
+    },
+    {
         name: 'Pescatore',
         group: 'Entrees',
         rank: 4,
@@ -638,8 +653,8 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Sage',
         howTo: '',
-    }),
-    new Recipe({
+    },
+    {
         name: 'Unaju',
         group: 'Entrees',
         rank: 4,
@@ -651,8 +666,8 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Mixed Herbs',
         howTo: '',
-    }),
-    new Recipe({
+    },
+    {
         name: 'Baked Beans',
         group: 'Entrees',
         rank: 5,
@@ -663,8 +678,8 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Olive',
         howTo: '',
-    }),
-    new Recipe({
+    },
+    {
         name: 'Pizza',
         group: 'Entrees',
         rank: 5,
@@ -675,8 +690,8 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Pineapple',
         howTo: '',
-    }),
-    new Recipe({
+    },
+    {
         name: 'Kitsune Udon',
         group: 'Entrees',
         rank: 5,
@@ -687,8 +702,9 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Leek',
         howTo: '',
-    }),
-    new Recipe({
+        LovettStars: 2,
+    },
+    {
         name: 'Neapolitan Pasta',
         group: 'Entrees',
         rank: 5,
@@ -700,8 +716,9 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Sage',
         howTo: 'Eat at the Cafe',
-    }),
-    new Recipe({
+        LovettStars: 4,
+    },
+    {
         name: 'Chestnut Rice',
         group: 'Entrees',
         rank: 5,
@@ -712,8 +729,8 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Matsutake Mushroom',
         howTo: '',
-    }),
-    new Recipe({
+    },
+    {
         name: 'Boiled Fish',
         group: 'Entrees',
         rank: 5,
@@ -724,8 +741,8 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Sugar',
         howTo: '',
-    }),
-    new Recipe({
+    },
+    {
         name: 'Vegetable Pizza',
         group: 'Entrees',
         rank: 6,
@@ -737,8 +754,8 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Wild Berry',
         howTo: '',
-    }),
-    new Recipe({
+    },
+    {
         name: 'Ratatouille',
         group: 'Entrees',
         rank: 6,
@@ -750,8 +767,8 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Olive',
         howTo: '',
-    }),
-    new Recipe({
+    },
+    {
         name: 'Calçots',
         group: 'Entrees',
         rank: 6,
@@ -763,8 +780,9 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Almond',
         howTo: '',
-    }),
-    new Recipe({
+        LovettStars: 4,
+    },
+    {
         name: 'Sashimi Bowl',
         group: 'Entrees',
         rank: 6,
@@ -776,8 +794,8 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Soy Sauce',
         howTo: '',
-    }),
-    new Recipe({
+    },
+    {
         name: 'Seafood Cataplana',
         group: 'Entrees',
         rank: 6,
@@ -789,8 +807,8 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Abalone',
         howTo: '',
-    }),
-    new Recipe({
+    },
+    {
         name: 'Brothy Fried Vegetables',
         group: 'Entrees',
         rank: 6,
@@ -802,5 +820,428 @@ export const MOCK_RECIPES = [
         ],
         topping: 'Soy Sauce',
         howTo: '',
-    }),
+    },
+    {
+        name: 'Jam Sandwich',
+        group: 'Entrees',
+        rank: 7,
+        ingredients: [
+            'Bread Group',
+            'Jam Group',
+            'Butter',
+        ],
+        topping: 'Yogurt',
+        howTo: '',
+    },
+    {
+        name: 'Boiled Vegetables',
+        group: 'Entrees',
+        rank: 7,
+        ingredients: [
+            'Daikon Radish',
+            'Okra',
+            'Soy Sauce',
+        ],
+        topping: 'Sugar',
+        howTo: '',
+    },
+    {
+        name: 'French Toast',
+        group: 'Entrees',
+        rank: 7,
+        ingredients: [
+            'Bread Group',
+            'Egg Group',
+            'Milk Group',
+            'Comb Honey'
+        ],
+        topping: 'Orange',
+        howTo: '',
+    },
+    {
+        name: 'Mixed Rice',
+        group: 'Entrees',
+        rank: 7,
+        ingredients: [
+            'Cooked White Rice',
+            'Shimeji Mushroom',
+            'Burdock',
+            'Carrot'
+        ],
+        topping: 'Bamboo Shoot',
+        howTo: '',
+    },
+    {
+        name: 'Tuna Sandwich',
+        group: 'Entrees',
+        rank: 7,
+        ingredients: [
+            'Bread Group',
+            'Egg Group',
+            'Vegetable Group',
+            'Tuna'
+        ],
+        topping: 'Sage',
+        howTo: '',
+    },
+    {
+        name: 'Vegetable Sauté',
+        group: 'Entrees',
+        rank: 7,
+        ingredients: [
+            'Cabbage',
+            'Spinach',
+            'Carrot',
+        ],
+        topping: 'Garlic',
+        howTo: '',
+    },
+    {
+        name: 'Boiled Sweet Potatoes',
+        group: 'Entrees',
+        rank: 8,
+        ingredients: [
+            'Potato',
+            'Chili Pepper',
+            'Worker Jelly',
+        ],
+        topping: 'Sugar',
+        howTo: '',
+    },
+    {
+        name: 'Cream Sauce Pasta',
+        group: 'Entrees',
+        rank: 8,
+        ingredients: [
+            'Flour',
+            'Spinach',
+            'Milk Group',
+        ],
+        topping: 'Sage',
+        howTo: '',
+    },
+    {
+        name: 'Gratin',
+        group: 'Entrees',
+        rank: 8,
+        ingredients: [
+            'Flour',
+            'Milk Group',
+            'Broccoli',
+            'Cheese'
+        ],
+        topping: 'Shiitake Mushroom',
+        howTo: '',
+    },
+    {
+        name: 'Carbonara',
+        group: 'Entrees',
+        rank: 8,
+        ingredients: [
+            'Flour',
+            'Cheese',
+            'Egg Group',
+            'Milk Group'
+        ],
+        topping: 'Olive Oil',
+        howTo: 'Bistro',
+        LovettStars: 4,
+    },
+    {
+        name: 'Boquerones en Vinagre',
+        group: 'Entrees',
+        rank: 8,
+        ingredients: [
+            'Sardine',
+            'Olive Oil',
+            'Garlic',
+            'Vinegar'
+        ],
+        topping: 'Mixed Herbs',
+        howTo: '',
+    },
+    {
+        name: 'Quiche',
+        group: 'Entrees',
+        rank: 8,
+        ingredients: [
+            'Flour',
+            'Cheese',
+            'Broccoli',
+            'Corn'
+        ],
+        topping: 'Eggplant',
+        howTo: '',
+    },
+    {
+        name: 'Mushroom Pie',
+        group: 'Entrees',
+        rank: 8,
+        ingredients: [
+            'Flour',
+            'Cheese',
+            'Trumpet Mushroom',
+            'Common Mushroom'
+        ],
+        topping: 'Shimeji Mushroom',
+        howTo: '',
+        LovettStars: 6,
+    },
+    {
+        name: 'Fried Tuna Cutlet',
+        group: 'Entrees',
+        rank: 8,
+        ingredients: [
+            'Tuna',
+            'Olive Oil',
+            'Egg Group',
+            'Bread Group'
+        ],
+        topping: 'Mayonnaise',
+        howTo: '',
+        LovettStars: 6,
+    },
+    {
+        name: 'Risi e Bisi',
+        group: 'Entrees',
+        rank: 9,
+        ingredients: [
+            'Cooked White Rice',
+            'Beans',
+            'Carrot',
+            'Butter'
+        ],
+        topping: 'Olive',
+        howTo: '',
+    },
+    {
+        name: 'Matsutake Rice',
+        group: 'Entrees',
+        rank: 9,
+        ingredients: [
+            'Cooked White Rice',
+            'Matsutake Mushroom',
+            'Bamboo Shoot',
+        ],
+        topping: 'Soy Sauce',
+        howTo: '',
+        LovettStars: 6,
+    },
+    {
+        name: 'Boo Paht Pong Karee',
+        group: 'Entrees',
+        rank: 9,
+        ingredients: [
+            'Mixed Spices',
+            'Coconut',
+            'Egg Group',
+            'Giant King Crab'
+        ],
+        topping: 'Cooked White Rice',
+        howTo: '',
+        LovettStars: 6,
+    },
+    {
+        name: 'Champiñones a la Plancha',
+        group: 'Entrees',
+        rank: 9,
+        ingredients: [
+            'Common Mushroom',
+            'Shrimp Group',
+            'Garlic',
+            'Olive Oil'
+        ],
+        topping: 'Mushroom Group',
+        howTo: '',
+    },
+    {
+        name: 'Peperoncino Pasta',
+        group: 'Entrees',
+        rank: 9,
+        ingredients: [
+            'Flour',
+            'Olive Oil',
+            'Chili Pepper',
+            'Garlic',
+        ],
+        topping: 'Sage',
+        howTo: 'Bistro',
+    },
+    {
+        name: 'Stew',
+        group: 'Entrees',
+        rank: 9,
+        ingredients: [
+            'Milk Group',
+            'Butter',
+            'Broccoli',
+            'Giant Carrot'
+        ],
+        topping: 'Common Mushroom',
+        howTo: '',
+    },
+    {
+        name: 'Mushroom Cabbage Rolls',
+        group: 'Entrees',
+        rank: 9,
+        ingredients: [
+            'Common Mushroom',
+            'Cabbage',
+            'Tomato',
+        ],
+        topping: 'Olive Oil',
+        howTo: '',
+    },
+    {
+        name: 'Tom Yum Pla',
+        group: 'Entrees',
+        rank: 9,
+        ingredients: [
+            'Coconut',
+            'Giant Catfish',
+            'Mixed Herbs'
+        ],
+        topping: 'Black Pepper',
+        howTo: '',
+    },
+    {
+        name: 'Grilled Gar',
+        group: 'Entrees',
+        rank: 10,
+        ingredients: [
+            'Alligator Gar',
+            'Salt',
+            'Lemon',
+        ],
+        topping: 'Soy Sauce',
+        howTo: '',
+    },
+    {
+        name: 'Seafood Pilaf Platter',
+        group: 'Entrees',
+        rank: 10,
+        ingredients: [
+            'Cooked White Rice',
+            'Spotted Eagle Ray',
+            'Green Pepper',
+            'Butter'
+        ],
+        topping: 'Black Pepper',
+        howTo: '',
+    },
+    {
+        name: 'Tortilla Soup',
+        group: 'Entrees',
+        rank: 10,
+        ingredients: [
+            'Corn',
+            'Zucchini',
+            'Avocado',
+            'Mixed Spices'
+        ],
+        topping: 'Oregano',
+        howTo: '',
+    },
+    {
+        name: 'Marlin Sushi',
+        group: 'Entrees',
+        rank: 10,
+        ingredients: [
+            'Rice',
+            'Marlin',
+            'Soy Sauce',
+            'Vinegar'
+        ],
+        topping: 'Sugar',
+        howTo: '',
+    },
+    {
+        name: 'Cheese Fondue',
+        group: 'Entrees',
+        rank: 10,
+        ingredients: [
+            'Cheese',
+            'Broccoli',
+            'Giant Sweet Potato',
+            'Pumpkin'
+        ],
+        topping: 'Carrot',
+        howTo: '',
+    },
+    {
+        name: 'Halibut al Cartoccio',
+        group: 'Entrees',
+        rank: 10,
+        ingredients: [
+            'Halibut',
+            'Tomato',
+            'Potato',
+            'Lemon'
+        ],
+        topping: 'Shellfish Group',
+        howTo: '',
+    },
+    {
+        name: 'Genovese Pasta',
+        group: 'Entrees',
+        rank: 10,
+        ingredients: [
+            'Flour',
+            'Giant Avocado',
+            'Cheese',
+            'Olive Oil'
+        ],
+        topping: 'Sage',
+        howTo: '',
+    },
+    {
+        name: 'Giant Seafood Pizza',
+        group: 'Entrees',
+        rank: 10,
+        ingredients: [
+            'Flour',
+            'Giant Grouper',
+            'Giant Squid',
+            'Cheese'
+        ],
+        topping: 'Olive Oil',
+        howTo: '',
+    },
+    {
+        name: 'Kimchi Hot Pot',
+        group: 'Entrees',
+        rank: 10,
+        ingredients: [
+            'Golden Napa Cabbage',
+            'Bok Choy',
+            'Leek',
+            'Chili Pepper'
+        ],
+        topping: 'Matsutake Mushroom',
+        howTo: '',
+    },
+    {
+        name: 'Hot Pot',
+        group: 'Entrees',
+        rank: 10,
+        ingredients: [
+            'Cabbage',
+            'Matsutake Mushroom',
+            'Burdock',
+            'Giant Leek'
+        ],
+        topping: 'Shiitake Mushroom',
+        howTo: '',
+    },
+    {
+        name: 'Onigiri',
+        group: 'Entrees',
+        rank: 10,
+        ingredients: [
+            'Cooked White Rice',
+            'Salt',
+        ],
+        topping: 'Matsutake Mushroom',
+        howTo: 'finish Lovett\'s requests',
+    },
 ]
