@@ -1,4 +1,4 @@
-import {Recipe} from "./Recipe";
+import {CompareGroups, Recipe} from "./Recipe";
 import {ChangeEvent, Dispatch, SetStateAction, useEffect, useState} from "react";
 
 interface RecipeListProps {
@@ -15,15 +15,11 @@ function RecipeList({foodGroups, lovettLevel}: RecipeListProps) {
             const recipesResp = await fetch(`http://abandonedfactory.net/games/sos/all_recipes.json`);
             const r = await recipesResp.json() as Recipe[];
             if (!ignore) {
-                // TODO: sort the list more usefully - by rank, then by group
-                // TODO: no soups are included?
                 // Sort the master list by level, then by group
                 r.sort((a,b) => {
                     return a.level - b.level;
                 })
-                r.sort((a,b) => {
-                    return a.group.localeCompare(b.group);
-                })
+                r.sort(CompareGroups);
                 setAllRecipes(r);
             }
         }
