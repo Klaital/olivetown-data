@@ -9,10 +9,13 @@ export enum Group {
 export type Recipe = {
     name: string,
     ingredients: string[],
-    rank: number,
-    howTo?: string,
+    flavors: string[],
+    temperatures: string[],
+    colors: string[],
+    level: number,
+    howTo: string,
     group: string,
     topping: string,
 
-    LovettStars?: number,
+    lovett?: number,
 }

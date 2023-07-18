@@ -1,6 +1,5 @@
 import {Recipe} from "./Recipe";
-import {ChangeEvent, Dispatch, SetStateAction, useState} from "react";
-import {MOCK_RECIPES} from "./MockRecipes";
+import {ChangeEvent, Dispatch, SetStateAction, useEffect, useState} from "react";
 
 interface RecipeListProps {
     foodGroups: string[],
@@ -8,9 +7,35 @@ interface RecipeListProps {
 }
 
 function RecipeList({foodGroups, lovettLevel}: RecipeListProps) {
-    let recipeSet = MOCK_RECIPES.filter(r => foodGroups.includes(r.group))
+    const allRecipesDefault: Recipe[] = [];
+    const [ allRecipes, setAllRecipes ] = useState(allRecipesDefault);
+
+    useEffect(() => {
+        async function startFetching() {
+            const recipesResp = await fetch(`http://abandonedfactory.net/games/sos/all_recipes.json`);
+            const r = await recipesResp.json() as Recipe[];
+            if (!ignore) {
+                // TODO: sort the list more usefully - by rank, then by group
+                // TODO: no soups are included?
+                // Sort the master list by level, then by group
+                r.sort((a,b) => {
+                    return a.level - b.level;
+                })
+                r.sort((a,b) => {
+                    return a.group.localeCompare(b.group);
+                })
+                setAllRecipes(r);
+            }
+        }
+        let ignore = false;
+        startFetching().then(r => {});
+        return () => {
+            ignore = true;
+        }
+    }, [])
+    let recipeSet = allRecipes.filter(r => foodGroups.includes(r.group))
     if (lovettLevel > 0) {
-        recipeSet = recipeSet.filter(r => r.LovettStars === lovettLevel);
+        recipeSet = recipeSet.filter(r => r.lovett === lovettLevel);
     }
 
 
@@ -50,7 +75,7 @@ function RecipeList({foodGroups, lovettLevel}: RecipeListProps) {
                     </td>
                     <td>{recipe.name}</td>
                     <td>{recipe.group}</td>
-                    <td>{recipe.rank}</td>
+                    <td>{recipe.level}</td>
                     <td>
                         <ul>
                             {recipe.ingredients.map((ingredient:string) => <li>{ingredient}</li>)}
@@ -58,7 +83,7 @@ function RecipeList({foodGroups, lovettLevel}: RecipeListProps) {
                         </ul>
                     </td>
                     <td>{recipe.howTo}</td>
-                    <td>{recipe.LovettStars}</td>
+                    <td>{recipe.lovett}</td>
                 </tr>
             ))}
             </tbody>
