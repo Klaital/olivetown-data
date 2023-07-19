@@ -6,6 +6,7 @@ import FlowersPage from "./flowers/FlowersPage";
 import { BrowserRouter as Router, Routes, Route, NavLink } from "react-router-dom";
 import CookingPage from "./cooking/CookingPage";
 import CropsPage from "./crops/CropsPage";
+import HomePage from "./home/HomePage";
 
 
 function App() {
@@ -31,7 +32,7 @@ function App() {
           </header>
           <div className="container">
               <Routes>
-                  <Route path={process.env.PUBLIC_URL + '/'} element={<CropsPage />} />
+                  <Route path={process.env.PUBLIC_URL + '/'} element={<HomePage />} />
                   <Route path={process.env.PUBLIC_URL + "/flowers"} element={<FlowersPage />} />
                   <Route path={process.env.PUBLIC_URL + "/cooking"} element={<CookingPage />} />
                   <Route path={process.env.PUBLIC_URL + "/crops"} element={<CropsPage />} />
