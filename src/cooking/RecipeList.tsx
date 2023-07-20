@@ -1,5 +1,6 @@
 import {CompareGroups, Item, Recipe} from "./Recipe";
 import {ChangeEvent, Dispatch, SetStateAction, useEffect, useState} from "react";
+import {ItemLink} from "../Item";
 
 interface RecipeListProps {
     foodGroups: string[],
@@ -33,7 +34,6 @@ function RecipeList({foodGroups, lovettLevel}: RecipeListProps) {
     if (lovettLevel > 0) {
         recipeSet = recipeSet.filter(r => r.lovett === lovettLevel);
     }
-
 
     const initialRecipes: string[] = [];
     const [ selectedRecipes, setSelectedRecipes ] = useState(initialRecipes);
@@ -74,8 +74,8 @@ function RecipeList({foodGroups, lovettLevel}: RecipeListProps) {
                     <td>{recipe.level}</td>
                     <td>
                         <ul>
-                            {recipe.ingredients.map((ingredient:Item) => <li>{ingredient.name}</li>)}
-                            <li>(topping) {recipe.topping.name}</li>
+                            {recipe.ingredients.map((ingredient:Item) => <li><ItemLink item={ingredient} /></li>)}
+                            <li>(topping) <ItemLink item={recipe.topping} /></li>
                         </ul>
                     </td>
                     <td>{recipe.how_to}</td>
