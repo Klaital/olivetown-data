@@ -19,16 +19,21 @@ export function CompareGroups(r1: Recipe, r2: Recipe): number {
     return g1 - g2;
 }
 
+export type Item = {
+    name: string,
+    category: string,
+    icon_file: string,
+}
 export type Recipe = {
     name: string,
-    ingredients: string[],
+    ingredients: Item[],
     flavors: string[],
     temperatures: string[],
     colors: string[],
     level: number,
-    howTo: string,
+    how_to: string,
     group: string,
-    topping: string,
+    topping: Item,
 
     lovett?: number,
 }

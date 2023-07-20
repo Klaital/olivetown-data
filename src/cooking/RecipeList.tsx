@@ -1,4 +1,4 @@
-import {CompareGroups, Recipe} from "./Recipe";
+import {CompareGroups, Item, Recipe} from "./Recipe";
 import {ChangeEvent, Dispatch, SetStateAction, useEffect, useState} from "react";
 
 interface RecipeListProps {
@@ -12,7 +12,7 @@ function RecipeList({foodGroups, lovettLevel}: RecipeListProps) {
 
     useEffect(() => {
         async function startFetching() {
-            const recipesResp = await fetch(`http://abandonedfactory.net/games/sos/all_recipes.json`);
+            const recipesResp = await fetch(`http://abandonedfactory.net/games/sos/all_recipes_v2.json`);
             const r = await recipesResp.json() as Recipe[];
             if (!ignore) {
                 // Sort the master list by level, then by group
@@ -74,11 +74,11 @@ function RecipeList({foodGroups, lovettLevel}: RecipeListProps) {
                     <td>{recipe.level}</td>
                     <td>
                         <ul>
-                            {recipe.ingredients.map((ingredient:string) => <li>{ingredient}</li>)}
-                            <li>(topping) {recipe.topping}</li>
+                            {recipe.ingredients.map((ingredient:Item) => <li>{ingredient.name}</li>)}
+                            <li>(topping) {recipe.topping.name}</li>
                         </ul>
                     </td>
-                    <td>{recipe.howTo}</td>
+                    <td>{recipe.how_to}</td>
                     <td>{recipe.lovett}</td>
                 </tr>
             ))}
@@ -106,13 +106,13 @@ function ShoppingList(props: {trackedRecipeNames: string[], recipeSet: Recipe[],
     let shoppingList = new Map<string, number>();
     props.recipeSet.forEach(r => {
         if (props.trackedRecipeNames.includes(r.name)) {
-            r.ingredients.forEach(i => {
-                const existingCount =  shoppingList.get(i) ?? 0;
-                shoppingList.set(i, existingCount+1);
+            r.ingredients.forEach(item => {
+                const existingCount =  shoppingList.get(item.name) ?? 0;
+                shoppingList.set(item.name, existingCount+1);
             })
             if (includeToppings) {
-                const existingCount =  shoppingList.get(r.topping) ?? 0;
-                shoppingList.set(r.topping, existingCount+1);
+                const existingCount =  shoppingList.get(r.topping.name) ?? 0;
+                shoppingList.set(r.topping.name, existingCount+1);
             }
         }
     })
