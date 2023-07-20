@@ -1,0 +1,6708 @@
+[
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Salad_Kimchi.png",
+    "name": "Kimchi",
+    "level": 10,
+    "group": "Salads",
+    "flavors": [
+      "Sour",
+      "Spicy"
+    ],
+    "temperatures": [
+      "Cold"
+    ],
+    "colors": [
+      "Red",
+      "Orange",
+      "Green",
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Chili_Pepper.png",
+        "name": "Chili Pepper\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Bok_Choy.png",
+        "name": "Bok Choy\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Turnip_Group.png",
+        "name": "Turnip Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Napa_Cabbage_Group.png",
+        "name": "Napa Cabbage Group\n",
+        "category": "Groups"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Sugar.png",
+      "name": "Sugar\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 11
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Salad_Rosolli.png",
+    "name": "Rosolli",
+    "level": 10,
+    "group": "Salads",
+    "flavors": [
+      "Sour",
+      "Sweet"
+    ],
+    "temperatures": [
+      "Cold"
+    ],
+    "colors": [
+      "White",
+      "Red",
+      "Green",
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Cucumber.png",
+        "name": "Cucumber\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Carrot.png",
+        "name": "Carrot\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Apple_Group.png",
+        "name": "Apple Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Star_Potato.png",
+        "name": "Star Potato\n",
+        "category": "Crop"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Vinegar.png",
+      "name": "Vinegar\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 10
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Salad_Spinach_Salad.png",
+    "name": "Spinach Salad",
+    "level": 9,
+    "group": "Salads",
+    "flavors": [
+      "Sour",
+      "Salty",
+      "Spicy"
+    ],
+    "temperatures": [
+      "Cold"
+    ],
+    "colors": [
+      "White",
+      "Red",
+      "Green"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Pepper.png",
+        "name": "Pepper\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Olive.png",
+        "name": "Olive\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Yogurt.png",
+        "name": "Yogurt\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Spinach_Group.png",
+        "name": "Spinach Group\n",
+        "category": "Groups"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Salt.png",
+      "name": "Salt\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Salad_Caprese_Salad.png",
+    "name": "Caprese Salad",
+    "level": 9,
+    "group": "Salads",
+    "flavors": [
+      "Sour",
+      "Salty"
+    ],
+    "temperatures": [
+      "Cold"
+    ],
+    "colors": [
+      "White",
+      "Red",
+      "Green"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Avocado_Group.png",
+        "name": "Avocado Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Cheese.png",
+        "name": "Cheese\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Tomato_Group.png",
+        "name": "Tomato Group\n",
+        "category": "Groups"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Olive_Oil.png",
+      "name": "Olive Oil\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Salad_Kinpira_Gobo.png",
+    "name": "Kinpira Gobo",
+    "level": 8,
+    "group": "Salads",
+    "flavors": [
+      "Salty",
+      "Spicy"
+    ],
+    "temperatures": [
+      "Cold"
+    ],
+    "colors": [
+      "Red",
+      "Orange",
+      "Brown"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Chili_Pepper.png",
+        "name": "Chili Pepper\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Soy_Sauce.png",
+        "name": "Soy Sauce\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Carrot.png",
+        "name": "Carrot\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Burdock.png",
+        "name": "Burdock\n",
+        "category": "Crop"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Mixed_Herbs.png",
+      "name": "Mixed Herbs\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Salad_Bhindi_Masala.png",
+    "name": "Bhindi Masala",
+    "level": 8,
+    "group": "Salads",
+    "flavors": [
+      "Sour",
+      "Spicy"
+    ],
+    "temperatures": [
+      "Cold"
+    ],
+    "colors": [
+      "Red",
+      "Green",
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Garlic.png",
+        "name": "Garlic\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Onion.png",
+        "name": "Onion\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Tomato_Group.png",
+        "name": "Tomato Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Okra.png",
+        "name": "Okra\n",
+        "category": "Crop"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Mixed_Spices.png",
+      "name": "Mixed Spices\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Salad_Mushroom_Marinade.png",
+    "name": "Mushroom Marinade",
+    "level": 7,
+    "group": "Salads",
+    "flavors": [
+      "Sour"
+    ],
+    "temperatures": [
+      "Cold"
+    ],
+    "colors": [
+      "White",
+      "Brown",
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Vinegar.png",
+        "name": "Vinegar\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Mushroom_Coral_Mushroom.png",
+        "name": "Coral Mushroom\n",
+        "category": "Mushroom"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Mushroom_Trumpet_Mushroom.png",
+        "name": "Trumpet Mushroom\n",
+        "category": "Mushroom"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Mushroom_Shimeji_Mushroom.png",
+        "name": "Shimeji Mushroom\n",
+        "category": "Mushroom"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Mushroom_Common_Mushroom.png",
+      "name": "Common Mushroom\n",
+      "category": "Mushroom"
+    },
+    "how_to": "",
+    "lovett": 8
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Salad_Pickles.png",
+    "name": "Pickles",
+    "level": 7,
+    "group": "Salads",
+    "flavors": [
+      "Sour"
+    ],
+    "temperatures": [
+      "Cold"
+    ],
+    "colors": [
+      "White",
+      "Green"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Vinegar.png",
+        "name": "Vinegar\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Daikon_Radish_Group.png",
+        "name": "Daikon Radish Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Cucumber.png",
+        "name": "Cucumber\n",
+        "category": "Crop"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Garlic.png",
+      "name": "Garlic\n",
+      "category": "Crop"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Salad_Bean_Salad.png",
+    "name": "Bean Salad",
+    "level": 6,
+    "group": "Salads",
+    "flavors": [
+      "Sour"
+    ],
+    "temperatures": [
+      "Cold"
+    ],
+    "colors": [
+      "White",
+      "Red",
+      "Green",
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Tomato.png",
+        "name": "Tomato\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Beans.png",
+        "name": "Beans\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Turnip_Group.png",
+        "name": "Turnip Group\n",
+        "category": "Groups"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Vinegar.png",
+      "name": "Vinegar\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Salad_Small_Fish_Marinade.png",
+    "name": "Small Fish Marinade",
+    "level": 6,
+    "group": "Salads",
+    "flavors": [
+      "Sour"
+    ],
+    "temperatures": [
+      "Cold"
+    ],
+    "colors": [
+      "Brown",
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Vinegar.png",
+        "name": "Vinegar\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Onion.png",
+        "name": "Onion\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Small_Fish_Group.png",
+        "name": "Small Fish Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Small_Fish_Group.png",
+        "name": "Small Fish Group\n",
+        "category": "Groups"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Lemon.png",
+      "name": "Lemon\n",
+      "category": "Crop"
+    },
+    "how_to": "",
+    "lovett": 4
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Salad_Fruit_Salad.png",
+    "name": "Fruit Salad",
+    "level": 5,
+    "group": "Salads",
+    "flavors": [
+      "Sour",
+      "Sweet"
+    ],
+    "temperatures": [
+      "Cold"
+    ],
+    "colors": [
+      "White",
+      "Red",
+      "Orange",
+      "Green",
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_WildPlant_Oregano.png",
+        "name": "Oregano\n",
+        "category": "WildPlant"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Fruit_Group.png",
+        "name": "Fruit Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Vegetable_Group.png",
+        "name": "Vegetable Group\n",
+        "category": "Groups"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Pineapple.png",
+      "name": "Pineapple\n",
+      "category": "Crop"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Salad_Egg_Salad.png",
+    "name": "Egg Salad",
+    "level": 5,
+    "group": "Salads",
+    "flavors": [
+      "Sour",
+      "Mellow"
+    ],
+    "temperatures": [
+      "Cold"
+    ],
+    "colors": [
+      "White",
+      "Red",
+      "Orange",
+      "Green"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Mayonnaise.png",
+        "name": "Mayonnaise\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Radish.png",
+        "name": "Radish\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Egg_Group.png",
+        "name": "Egg Group\n",
+        "category": "Groups"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Avocado_Group.png",
+      "name": "Avocado Group\n",
+      "category": "Groups"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Salad_Lyonnaise_Potatoes.png",
+    "name": "Lyonnaise Potatoes",
+    "level": 4,
+    "group": "Salads",
+    "flavors": [
+      "Sour",
+      "Mellow"
+    ],
+    "temperatures": [
+      "Cold"
+    ],
+    "colors": [
+      "White",
+      "Red",
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Mayonnaise.png",
+        "name": "Mayonnaise\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_WildPlant_Oregano.png",
+        "name": "Oregano\n",
+        "category": "WildPlant"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Potato_Group.png",
+        "name": "Potato Group\n",
+        "category": "Groups"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Olive_Oil.png",
+      "name": "Olive Oil\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Salad_Yum_Woon_Sen.png",
+    "name": "Yum Woon Sen",
+    "level": 4,
+    "group": "Salads",
+    "flavors": [
+      "Sour",
+      "Salty",
+      "Spicy"
+    ],
+    "temperatures": [
+      "Cold",
+      "Hot"
+    ],
+    "colors": [
+      "White",
+      "Red",
+      "Green"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Cucumber.png",
+        "name": "Cucumber\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Onion.png",
+        "name": "Onion\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Squid_Group.png",
+        "name": "Squid Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Fish_Whiskered_Velvet_Shrimp.png",
+        "name": "Whiskered Velvet Shrimp\n",
+        "category": "Fish"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Garlic.png",
+      "name": "Garlic\n",
+      "category": "Crop"
+    },
+    "how_to": "",
+    "lovett": 6
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Salad_Mixed_Salad.png",
+    "name": "Mixed Salad",
+    "level": 3,
+    "group": "Salads",
+    "flavors": [
+      "Sour",
+      "Mellow"
+    ],
+    "temperatures": [
+      "Cold"
+    ],
+    "colors": [
+      "White",
+      "Brown",
+      "Green"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Mushroom_Shimeji_Mushroom.png",
+        "name": "Shimeji Mushroom\n",
+        "category": "Mushroom"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Wild_Plant_Group.png",
+        "name": "Wild Plant Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Vegetable_Group.png",
+        "name": "Vegetable Group\n",
+        "category": "Groups"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Melon_Group.png",
+      "name": "Melon Group\n",
+      "category": "Groups"
+    },
+    "how_to": "",
+    "lovett": 2
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Salad_Potato_Salad.png",
+    "name": "Potato Salad",
+    "level": 2,
+    "group": "Salads",
+    "flavors": [
+      "Mellow"
+    ],
+    "temperatures": [
+      "Cold"
+    ],
+    "colors": [
+      "White",
+      "Red",
+      "Green",
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Cucumber.png",
+        "name": "Cucumber\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Potato_Group.png",
+        "name": "Potato Group\n",
+        "category": "Groups"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Apple_Group.png",
+      "name": "Apple Group\n",
+      "category": "Groups"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Salad_Vegetable_Salad.png",
+    "name": "Vegetable Salad",
+    "level": 1,
+    "group": "Salads",
+    "flavors": [
+      "Sour"
+    ],
+    "temperatures": [
+      "Cold"
+    ],
+    "colors": [
+      "Red",
+      "Green",
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Vegetable_Group.png",
+        "name": "Vegetable Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Vegetable_Group.png",
+        "name": "Vegetable Group\n",
+        "category": "Groups"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Wild_Plant_Group.png",
+      "name": "Wild Plant Group\n",
+      "category": "Groups"
+    },
+    "how_to": "",
+    "lovett": 1
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Soup_Lemon_Soup.png",
+    "name": "Lemon Soup",
+    "level": 10,
+    "group": "Soups",
+    "flavors": [
+      "Sour"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Leek_Group.png",
+        "name": "Leek Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Napa_Cabbage_Group.png",
+        "name": "Napa Cabbage Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Lemon.png",
+        "name": "Lemon\n",
+        "category": "Crop"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Mixed_Herbs.png",
+      "name": "Mixed Herbs\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 11
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Soup_Borscht.png",
+    "name": "Borscht",
+    "level": 10,
+    "group": "Soups",
+    "flavors": [
+      "Sour",
+      "Salty"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "White",
+      "Red",
+      "Orange",
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Radish.png",
+        "name": "Radish\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Cabbage.png",
+        "name": "Cabbage\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Carrot.png",
+        "name": "Carrot\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Tomato_Group.png",
+        "name": "Tomato Group\n",
+        "category": "Groups"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Lemon.png",
+      "name": "Lemon\n",
+      "category": "Crop"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Soup_Pot-au-Feu.png",
+    "name": "Pot-au-Feu",
+    "level": 10,
+    "group": "Soups",
+    "flavors": [
+      "Salty"
+    ],
+    "temperatures": [
+      "Hot"
+    ],
+    "colors": [
+      "White",
+      "Orange",
+      "Green",
+      "Purple",
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Turnip_Group.png",
+        "name": "Turnip Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Cabbage.png",
+        "name": "Cabbage\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Pepper.png",
+        "name": "Pepper\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Potato_Group.png",
+        "name": "Potato Group\n",
+        "category": "Groups"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Salt.png",
+      "name": "Salt\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Soup_Sour_Cherry_Soup.png",
+    "name": "Sour Cherry Soup",
+    "level": 9,
+    "group": "Soups",
+    "flavors": [
+      "Sour",
+      "Sweet"
+    ],
+    "temperatures": [
+      "Cold"
+    ],
+    "colors": [
+      "Red",
+      "Peach",
+      "Green"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Mixed_Herbs.png",
+        "name": "Mixed Herbs\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Lemon.png",
+        "name": "Lemon\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Sugar.png",
+        "name": "Sugar\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Cherry.png",
+        "name": "Cherry\n",
+        "category": "Crop"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_WildPlant_Golden_Rain_Rosemary.png",
+      "name": "Golden Rain Rosemary\n",
+      "category": "WildPlant"
+    },
+    "how_to": "",
+    "lovett": 10
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Soup_Oarfish_Soup.png",
+    "name": "Oarfish Soup",
+    "level": 9,
+    "group": "Soups",
+    "flavors": [
+      "Sour",
+      "Salty"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "Brown",
+      "Green"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Soy_Sauce.png",
+        "name": "Soy Sauce\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Beans.png",
+        "name": "Beans\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Leek_Group.png",
+        "name": "Leek Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Fish_Oarfish.png",
+        "name": "Oarfish\n",
+        "category": "Fish"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Mushroom_Shiitake_Mushroom.png",
+      "name": "Shiitake Mushroom\n",
+      "category": "Mushroom"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Soup_Kenchin-jiru.png",
+    "name": "Kenchin-jiru",
+    "level": 9,
+    "group": "Soups",
+    "flavors": [
+      "Sour",
+      "Salty"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "Orange",
+      "Brown",
+      "Green"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Carrot.png",
+        "name": "Carrot\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Mushroom_Shiitake_Mushroom.png",
+        "name": "Shiitake Mushroom\n",
+        "category": "Mushroom"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Daikon_Radish_Group.png",
+        "name": "Daikon Radish Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Burdock.png",
+        "name": "Burdock\n",
+        "category": "Crop"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Salt.png",
+      "name": "Salt\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Soup_Minestrone.png",
+    "name": "Minestrone",
+    "level": 8,
+    "group": "Soups",
+    "flavors": [
+      "Sour",
+      "Salty"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "Red",
+      "Orange",
+      "Green",
+      "Purple"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Zucchini.png",
+        "name": "Zucchini\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Cabbage.png",
+        "name": "Cabbage\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Tomato_Group.png",
+        "name": "Tomato Group\n",
+        "category": "Groups"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Garlic.png",
+      "name": "Garlic\n",
+      "category": "Crop"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Soup_Sopa_de_Ajo.png",
+    "name": "Sopa de Ajo",
+    "level": 8,
+    "group": "Soups",
+    "flavors": [
+      "Salty"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "Orange",
+      "Brown",
+      "Purple"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Olive_Oil.png",
+        "name": "Olive Oil\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Bread_Group.png",
+        "name": "Bread Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Egg_Group.png",
+        "name": "Egg Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Garlic.png",
+        "name": "Garlic\n",
+        "category": "Crop"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Mixed_Spices.png",
+      "name": "Mixed Spices\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Soup_Tteokguk.png",
+    "name": "Tteokguk",
+    "level": 7,
+    "group": "Soups",
+    "flavors": [
+      "Salty"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "White",
+      "Brown",
+      "Green",
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Soy_Sauce.png",
+        "name": "Soy Sauce\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Carrot.png",
+        "name": "Carrot\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Egg_Group.png",
+        "name": "Egg Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Mushroom_Shiitake_Mushroom.png",
+        "name": "Shiitake Mushroom\n",
+        "category": "Mushroom"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_WildPlant_Royal_Fern.png",
+      "name": "Royal Fern\n",
+      "category": "WildPlant"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Soup_Onion_Soup.png",
+    "name": "Onion Soup",
+    "level": 7,
+    "group": "Soups",
+    "flavors": [
+      "Mellow",
+      "Salty"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "Orange",
+      "Brown",
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Mushroom_Trumpet_Mushroom.png",
+        "name": "Trumpet Mushroom\n",
+        "category": "Mushroom"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Cheese.png",
+        "name": "Cheese\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Butter.png",
+        "name": "Butter\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Onion.png",
+        "name": "Onion\n",
+        "category": "Crop"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Bread_Group.png",
+      "name": "Bread Group\n",
+      "category": "Groups"
+    },
+    "how_to": "",
+    "lovett": 6
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Soup_Tom_Yum_Goong.png",
+    "name": "Tom Yum Goong",
+    "level": 6,
+    "group": "Soups",
+    "flavors": [
+      "Sour",
+      "Salty",
+      "Spicy"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "Red",
+      "Orange",
+      "Black"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Chili_Pepper.png",
+        "name": "Chili Pepper\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Mushroom_Coral_Mushroom.png",
+        "name": "Coral Mushroom\n",
+        "category": "Mushroom"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Fish_Mussel.png",
+        "name": "Mussel\n",
+        "category": "Fish"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Fish_Lobster.png",
+        "name": "Lobster\n",
+        "category": "Fish"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Mixed_Herbs.png",
+      "name": "Mixed Herbs\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Soup_Bouillabaisse.png",
+    "name": "Bouillabaisse",
+    "level": 6,
+    "group": "Soups",
+    "flavors": [
+      "Sour",
+      "Salty"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "Red",
+      "Orange",
+      "Green"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Garlic.png",
+        "name": "Garlic\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Shellfish_Group.png",
+        "name": "Shellfish Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Fish_Bigfin_Reef_Squid.png",
+        "name": "Bigfin Reef Squid\n",
+        "category": "Fish"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Fish_Whiskered_Velvet_Shrimp.png",
+        "name": "Whiskered Velvet Shrimp\n",
+        "category": "Fish"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Broccoli.png",
+      "name": "Broccoli\n",
+      "category": "Crop"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Soup_Acqua_Pazza.png",
+    "name": "Acqua Pazza",
+    "level": 5,
+    "group": "Soups",
+    "flavors": [
+      "Sour",
+      "Salty"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "Red",
+      "Orange",
+      "Brown",
+      "Black"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Olive.png",
+        "name": "Olive\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Tomato_Group.png",
+        "name": "Tomato Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Crab_Group.png",
+        "name": "Crab Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Fish_Star_Snapper.png",
+        "name": "Star Snapper\n",
+        "category": "Fish"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Mixed_Herbs.png",
+      "name": "Mixed Herbs\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 8
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Soup_Clam_Chowder.png",
+    "name": "Clam Chowder",
+    "level": 5,
+    "group": "Soups",
+    "flavors": [
+      "Mellow"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "White",
+      "Brown",
+      "Green",
+      "Black"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Onion.png",
+        "name": "Onion\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Potato_Group.png",
+        "name": "Potato Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Milk_Group.png",
+        "name": "Milk Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Shellfish_Group.png",
+        "name": "Shellfish Group\n",
+        "category": "Groups"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Cheese.png",
+      "name": "Cheese\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Soup_Okra_Soup.png",
+    "name": "Okra Soup",
+    "level": 4,
+    "group": "Soups",
+    "flavors": [
+      "Salty",
+      "Spicy"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "White",
+      "Red",
+      "Orange",
+      "Green"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Large_Fish_Group.png",
+        "name": "Large Fish Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Onion.png",
+        "name": "Onion\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Okra.png",
+        "name": "Okra\n",
+        "category": "Crop"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Mixed_Spices.png",
+      "name": "Mixed Spices\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Soup_Gazpacho.png",
+    "name": "Gazpacho",
+    "level": 4,
+    "group": "Soups",
+    "flavors": [
+      "Sour",
+      "Salty"
+    ],
+    "temperatures": [
+      "Cold"
+    ],
+    "colors": [
+      "Red",
+      "Orange",
+      "Green"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Pepper.png",
+        "name": "Pepper\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Cucumber.png",
+        "name": "Cucumber\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Tomato_Group.png",
+        "name": "Tomato Group\n",
+        "category": "Groups"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Vinegar.png",
+      "name": "Vinegar\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 4
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Soup_Hot_%26_Sour_Soup.png",
+    "name": "Hot & Sour Soup",
+    "level": 3,
+    "group": "Soups",
+    "flavors": [
+      "Sour",
+      "Salty",
+      "Spicy"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "White",
+      "Brown",
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Soy_Sauce.png",
+        "name": "Soy Sauce\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Egg_Group.png",
+        "name": "Egg Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Mushroom_Shiitake_Mushroom.png",
+        "name": "Shiitake Mushroom\n",
+        "category": "Mushroom"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Vinegar.png",
+      "name": "Vinegar\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 2
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Soup_Green_Potage.png",
+    "name": "Green Potage",
+    "level": 3,
+    "group": "Soups",
+    "flavors": [
+      "Mellow"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "White",
+      "Green",
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Milk_Group.png",
+        "name": "Milk Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Beans.png",
+        "name": "Beans\n",
+        "category": "Crop"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Spinach_Group.png",
+      "name": "Spinach Group\n",
+      "category": "Groups"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Soup_Yellow_Potage.png",
+    "name": "Yellow Potage",
+    "level": 2,
+    "group": "Soups",
+    "flavors": [
+      "Mellow"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "White",
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Milk_Group.png",
+        "name": "Milk Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Potato_Group.png",
+        "name": "Potato Group\n",
+        "category": "Groups"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Pumpkin.png",
+      "name": "Pumpkin\n",
+      "category": "Crop"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Soup_Mixed_Soup.png",
+    "name": "Mixed Soup",
+    "level": 2,
+    "group": "Soups",
+    "flavors": [
+      "Salty"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "White",
+      "Brown",
+      "Green",
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Wild_Plant_Group.png",
+        "name": "Wild Plant Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Vegetable_Group.png",
+        "name": "Vegetable Group\n",
+        "category": "Groups"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Pepper.png",
+      "name": "Pepper\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Soup_Shellfish_Soup.png",
+    "name": "Shellfish Soup",
+    "level": 1,
+    "group": "Soups",
+    "flavors": [
+      "Salty"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "White",
+      "Brown",
+      "Green",
+      "Black"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Fish_Blood_Clam.png",
+        "name": "Blood Clam\n",
+        "category": "Fish"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Leek_Group.png",
+      "name": "Leek Group\n",
+      "category": "Groups"
+    },
+    "how_to": "",
+    "lovett": 1
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Entrees_Onigiri.png",
+    "name": "Onigiri",
+    "level": 10,
+    "group": "Entrees",
+    "flavors": [
+      "Salty"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "White"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Salt.png",
+        "name": "Salt\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Other_Dishes_Cooked_White_Rice.png",
+        "name": "Cooked White Rice\n",
+        "category": "Other"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Mushroom_Matsutake_Mushroom.png",
+      "name": "Matsutake Mushroom\n",
+      "category": "Mushroom"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Entrees_Hot_Pot.png",
+    "name": "Hot Pot",
+    "level": 10,
+    "group": "Entrees",
+    "flavors": [
+      "Mellow",
+      "Salty"
+    ],
+    "temperatures": [
+      "Hot"
+    ],
+    "colors": [
+      "White",
+      "Brown",
+      "Green"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Giant_Leek.png",
+        "name": "Giant Leek\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Burdock.png",
+        "name": "Burdock\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Mushroom_Matsutake_Mushroom.png",
+        "name": "Matsutake Mushroom\n",
+        "category": "Mushroom"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Cabbage.png",
+        "name": "Cabbage\n",
+        "category": "Crop"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Mushroom_Shiitake_Mushroom.png",
+      "name": "Shiitake Mushroom\n",
+      "category": "Mushroom"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Entrees_Kimchi_Hot_Pot.png",
+    "name": "Kimchi Hot Pot",
+    "level": 10,
+    "group": "Entrees",
+    "flavors": [
+      "Salty",
+      "Spicy"
+    ],
+    "temperatures": [
+      "Hot"
+    ],
+    "colors": [
+      "White",
+      "Red",
+      "Green"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Chili_Pepper.png",
+        "name": "Chili Pepper\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Leek_Group.png",
+        "name": "Leek Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Bok_Choy.png",
+        "name": "Bok Choy\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Golden_Napa_Cabbage.png",
+        "name": "Golden Napa Cabbage\n",
+        "category": "Crop"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Mushroom_Matsutake_Mushroom.png",
+      "name": "Matsutake Mushroom\n",
+      "category": "Mushroom"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Entrees_Giant_Seafood_Pizza.png",
+    "name": "Giant Seafood Pizza",
+    "level": 10,
+    "group": "Entrees",
+    "flavors": [
+      "Mellow",
+      "Salty"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "White",
+      "Brown",
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Cheese.png",
+        "name": "Cheese\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Fish_Giant_Squid.png",
+        "name": "Giant Squid\n",
+        "category": "Fish"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Fish_Giant_Grouper.png",
+        "name": "Giant Grouper\n",
+        "category": "Fish"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Flour.png",
+        "name": "Flour\n",
+        "category": "MakerByproduct"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Olive_Oil.png",
+      "name": "Olive Oil\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Entrees_Genovese_Pasta.png",
+    "name": "Genovese Pasta",
+    "level": 10,
+    "group": "Entrees",
+    "flavors": [
+      "Mellow",
+      "Salty"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "Green"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Olive_Oil.png",
+        "name": "Olive Oil\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Cheese.png",
+        "name": "Cheese\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Giant_Avacado.png",
+        "name": "Giant Avacado\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Flour.png",
+        "name": "Flour\n",
+        "category": "MakerByproduct"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_WildPlant_Sage.png",
+      "name": "Sage\n",
+      "category": "WildPlant"
+    },
+    "how_to": "",
+    "lovett": 10
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Entrees_Halibut_al_Cartoccio.png",
+    "name": "Halibut al Cartoccio",
+    "level": 10,
+    "group": "Entrees",
+    "flavors": [
+      "Sour",
+      "Salty"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "White",
+      "Red",
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Lemon.png",
+        "name": "Lemon\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Potato_Group.png",
+        "name": "Potato Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Tomato_Group.png",
+        "name": "Tomato Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Fish_Halibut.png",
+        "name": "Halibut\n",
+        "category": "Fish"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Shellfish_Group.png",
+      "name": "Shellfish Group\n",
+      "category": "Groups"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Entrees_Cheese_Fondue.png",
+    "name": "Cheese Fondue",
+    "level": 10,
+    "group": "Entrees",
+    "flavors": [
+      "Mellow",
+      "Salty"
+    ],
+    "temperatures": [
+      "Hot"
+    ],
+    "colors": [
+      "White",
+      "Red",
+      "Orange",
+      "Brown",
+      "Green",
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Pumpkin.png",
+        "name": "Pumpkin\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Giant_Sweet_Potato.png",
+        "name": "Giant Sweet Potato\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Broccoli.png",
+        "name": "Broccoli\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Cheese.png",
+        "name": "Cheese\n",
+        "category": "MakerByproduct"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Carrot.png",
+      "name": "Carrot\n",
+      "category": "Crop"
+    },
+    "how_to": "",
+    "lovett": 10
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Entrees_Marlin_Sushi.png",
+    "name": "Marlin Sushi",
+    "level": 10,
+    "group": "Entrees",
+    "flavors": [
+      "Sour",
+      "Salty"
+    ],
+    "temperatures": [
+      "Cold"
+    ],
+    "colors": [
+      "White",
+      "Red",
+      "Peach"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Vinegar.png",
+        "name": "Vinegar\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Soy_Sauce.png",
+        "name": "Soy Sauce\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Fish_Marlin.png",
+        "name": "Marlin\n",
+        "category": "Fish"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Rice.png",
+        "name": "Rice\n",
+        "category": "Crop"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Sugar.png",
+      "name": "Sugar\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Entrees_Tortilla_Soup.png",
+    "name": "Tortilla Soup",
+    "level": 10,
+    "group": "Entrees",
+    "flavors": [
+      "Sour",
+      "Spicy",
+      "Sweet"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "Red",
+      "Brown"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Mixed_Spices.png",
+        "name": "Mixed Spices\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Avocado_Group.png",
+        "name": "Avocado Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Zucchini.png",
+        "name": "Zucchini\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Corn_Group.png",
+        "name": "Corn Group\n",
+        "category": "Groups"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_WildPlant_Oregano.png",
+      "name": "Oregano\n",
+      "category": "WildPlant"
+    },
+    "how_to": "",
+    "lovett": 11
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Entrees_Seafood_Pilaf_Platter.png",
+    "name": "Seafood Pilaf Platter",
+    "level": 10,
+    "group": "Entrees",
+    "flavors": [
+      "Mellow",
+      "Salty"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "White",
+      "Green"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Butter.png",
+        "name": "Butter\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Green_Pepper.png",
+        "name": "Green Pepper\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Fish_Spotted_Eagle_Ray.png",
+        "name": "Spotted Eagle Ray\n",
+        "category": "Fish"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Other_Dishes_Cooked_White_Rice.png",
+        "name": "Cooked White Rice\n",
+        "category": "Other"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Pepper.png",
+      "name": "Pepper\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Entrees_Grilled_Gar.png",
+    "name": "Grilled Gar",
+    "level": 10,
+    "group": "Entrees",
+    "flavors": [
+      "Salty",
+      "Sweet"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "Brown",
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Lemon.png",
+        "name": "Lemon\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Salt.png",
+        "name": "Salt\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Fish_Alligator_Gar.png",
+        "name": "Alligator Gar\n",
+        "category": "Fish"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Soy_Sauce.png",
+      "name": "Soy Sauce\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Entrees_Tom_Yum_Pla.png",
+    "name": "Tom Yum Pla",
+    "level": 9,
+    "group": "Entrees",
+    "flavors": [
+      "Sour",
+      "Mellow",
+      "Spicy"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "White",
+      "Brown",
+      "Black"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Mixed_Herbs.png",
+        "name": "Mixed Herbs\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Fish_Giant_Catfish.png",
+        "name": "Giant Catfish\n",
+        "category": "Fish"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Coconut.png",
+        "name": "Coconut\n",
+        "category": "Crop"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Pepper.png",
+      "name": "Pepper\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 11
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Entrees_Mushroom_Cabbage_Rolls.png",
+    "name": "Mushroom Cabbage Rolls",
+    "level": 9,
+    "group": "Entrees",
+    "flavors": [
+      "Sour",
+      "Salty"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "Red",
+      "Brown",
+      "Green",
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Tomato_Group.png",
+        "name": "Tomato Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Cabbage.png",
+        "name": "Cabbage\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Mushroom_Common_Mushroom.png",
+        "name": "Common Mushroom\n",
+        "category": "Mushroom"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Olive_Oil.png",
+      "name": "Olive Oil\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Entrees_Stew.png",
+    "name": "Stew",
+    "level": 9,
+    "group": "Entrees",
+    "flavors": [
+      "Mellow"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "White",
+      "Orange",
+      "Brown",
+      "Green"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Carrot.png",
+        "name": "Carrot\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Broccoli.png",
+        "name": "Broccoli\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Butter.png",
+        "name": "Butter\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Milk_Group.png",
+        "name": "Milk Group\n",
+        "category": "Groups"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Mushroom_Common_Mushroom.png",
+      "name": "Common Mushroom\n",
+      "category": "Mushroom"
+    },
+    "how_to": "",
+    "lovett": 4
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Entrees_Peperoncino_Pasta.png",
+    "name": "Peperoncino Pasta",
+    "level": 9,
+    "group": "Entrees",
+    "flavors": [
+      "Salty",
+      "Spicy"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "Red",
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Garlic.png",
+        "name": "Garlic\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Chili_Pepper.png",
+        "name": "Chili Pepper\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Olive_Oil.png",
+        "name": "Olive Oil\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Flour.png",
+        "name": "Flour\n",
+        "category": "MakerByproduct"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_WildPlant_Sage.png",
+      "name": "Sage\n",
+      "category": "WildPlant"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Entrees_Champi%C3%B1ones_a_la_Plancha.png",
+    "name": "Champiñones a la Plancha",
+    "level": 9,
+    "group": "Entrees",
+    "flavors": [
+      "Salty"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "Red",
+      "Brown"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Olive_Oil.png",
+        "name": "Olive Oil\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Garlic.png",
+        "name": "Garlic\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Shrimp_Group.png",
+        "name": "Shrimp Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Mushroom_Common_Mushroom.png",
+        "name": "Common Mushroom\n",
+        "category": "Mushroom"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Mushroom_Group.png",
+      "name": "Mushroom Group\n",
+      "category": "Groups"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Entrees_Boo_Paht_Pong_Karee.png",
+    "name": "Boo Paht Pong Karee",
+    "level": 9,
+    "group": "Entrees",
+    "flavors": [
+      "Salty"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "Red",
+      "Brown"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Fish_Giant_King_Crab.png",
+        "name": "Giant King Crab\n",
+        "category": "Fish"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Egg_Group.png",
+        "name": "Egg Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Coconut.png",
+        "name": "Coconut\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Mixed_Spices.png",
+        "name": "Mixed Spices\n",
+        "category": "MakerByproduct"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Other_Dishes_Cooked_White_Rice.png",
+      "name": "Cooked White Rice\n",
+      "category": "Other"
+    },
+    "how_to": "",
+    "lovett": 6
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Entrees_Matsutake_Rice.png",
+    "name": "Matsutake Rice",
+    "level": 9,
+    "group": "Entrees",
+    "flavors": [
+      "Salty"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "White",
+      "Brown"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_WildPlant_Bamboo_Shoot.png",
+        "name": "Bamboo Shoot\n",
+        "category": "WildPlant"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Mushroom_Matsutake_Mushroom.png",
+        "name": "Matsutake Mushroom\n",
+        "category": "Mushroom"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Other_Dishes_Cooked_White_Rice.png",
+        "name": "Cooked White Rice\n",
+        "category": "Other"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Soy_Sauce.png",
+      "name": "Soy Sauce\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 6
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Entrees_Risi_e_Bisi.png",
+    "name": "Risi e Bisi",
+    "level": 9,
+    "group": "Entrees",
+    "flavors": [
+      "Mellow",
+      "Salty"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "Red",
+      "Brown",
+      "Green",
+      "Black"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Butter.png",
+        "name": "Butter\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Carrot.png",
+        "name": "Carrot\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Beans.png",
+        "name": "Beans\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Other_Dishes_Cooked_White_Rice.png",
+        "name": "Cooked White Rice\n",
+        "category": "Other"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Olive.png",
+      "name": "Olive\n",
+      "category": "Crop"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Entrees_Fried_Tuna_Cutlet.png",
+    "name": "Fried Tuna Cutlet",
+    "level": 8,
+    "group": "Entrees",
+    "flavors": [
+      "Mellow",
+      "Salty"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "Brown"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Bread_Group.png",
+        "name": "Bread Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Egg_Group.png",
+        "name": "Egg Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Olive_Oil.png",
+        "name": "Olive Oil\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Fish_Tuna.png",
+        "name": "Tuna\n",
+        "category": "Fish"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Mayonnaise.png",
+      "name": "Mayonnaise\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 6
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Entrees_Mushroom_Pie.png",
+    "name": "Mushroom Pie",
+    "level": 8,
+    "group": "Entrees",
+    "flavors": [
+      "Mellow",
+      "Salty"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "White",
+      "Brown",
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Mushroom_Common_Mushroom.png",
+        "name": "Common Mushroom\n",
+        "category": "Mushroom"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Mushroom_Trumpet_Mushroom.png",
+        "name": "Trumpet Mushroom\n",
+        "category": "Mushroom"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Cheese.png",
+        "name": "Cheese\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Flour.png",
+        "name": "Flour\n",
+        "category": "MakerByproduct"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Mushroom_Shimeji_Mushroom.png",
+      "name": "Shimeji Mushroom\n",
+      "category": "Mushroom"
+    },
+    "how_to": "",
+    "lovett": 8
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Entrees_Quiche.png",
+    "name": "Quiche",
+    "level": 8,
+    "group": "Entrees",
+    "flavors": [
+      "Mellow",
+      "Salty",
+      "Sweet"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "Brown",
+      "Green",
+      "Yellow",
+      "Black"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Corn_Group.png",
+        "name": "Corn Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Broccoli.png",
+        "name": "Broccoli\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Cheese.png",
+        "name": "Cheese\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Flour.png",
+        "name": "Flour\n",
+        "category": "MakerByproduct"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Eggplant.png",
+      "name": "Eggplant\n",
+      "category": "Crop"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Entrees_Boquerones_en_Vinagre.png",
+    "name": "Boquerones en Vinagre",
+    "level": 8,
+    "group": "Entrees",
+    "flavors": [
+      "Sour",
+      "Salty"
+    ],
+    "temperatures": [
+      "Cold"
+    ],
+    "colors": [
+      "White",
+      "Green",
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Vinegar.png",
+        "name": "Vinegar\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Garlic.png",
+        "name": "Garlic\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Olive_Oil.png",
+        "name": "Olive Oil\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Fish_Sardine.png",
+        "name": "Sardine\n",
+        "category": "Fish"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Mixed_Herbs.png",
+      "name": "Mixed Herbs\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Entrees_Carbonara.png",
+    "name": "Carbonara",
+    "level": 8,
+    "group": "Entrees",
+    "flavors": [
+      "Mellow",
+      "Salty"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "White",
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Milk_Group.png",
+        "name": "Milk Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Egg_Group.png",
+        "name": "Egg Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Cheese.png",
+        "name": "Cheese\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Flour.png",
+        "name": "Flour\n",
+        "category": "MakerByproduct"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Olive_Oil.png",
+      "name": "Olive Oil\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Entrees_Gratin.png",
+    "name": "Gratin",
+    "level": 8,
+    "group": "Entrees",
+    "flavors": [
+      "Mellow",
+      "Salty"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "White",
+      "Green",
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Cheese.png",
+        "name": "Cheese\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Broccoli.png",
+        "name": "Broccoli\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Milk_Group.png",
+        "name": "Milk Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Flour.png",
+        "name": "Flour\n",
+        "category": "MakerByproduct"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Mushroom_Shiitake_Mushroom.png",
+      "name": "Shiitake Mushroom\n",
+      "category": "Mushroom"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Entrees_Cream_Sauce_Pasta.png",
+    "name": "Cream Sauce Pasta",
+    "level": 8,
+    "group": "Entrees",
+    "flavors": [
+      "Mellow",
+      "Salty"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "White",
+      "Green",
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Milk_Group.png",
+        "name": "Milk Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Spinach_Group.png",
+        "name": "Spinach Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Flour.png",
+        "name": "Flour\n",
+        "category": "MakerByproduct"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_WildPlant_Sage.png",
+      "name": "Sage\n",
+      "category": "WildPlant"
+    },
+    "how_to": "",
+    "lovett": 8
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Entrees_Boiled_Sweet_Potatoes.png",
+    "name": "Boiled Sweet Potatoes",
+    "level": 8,
+    "group": "Entrees",
+    "flavors": [
+      "Salty",
+      "Sweet"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "Red",
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Worker_Jelly.png",
+        "name": "Worker Jelly\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Chili_Pepper.png",
+        "name": "Chili Pepper\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Potato_Group.png",
+        "name": "Potato Group\n",
+        "category": "Groups"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Sugar.png",
+      "name": "Sugar\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Entrees_Vegetable_Saut%C3%A9.png",
+    "name": "Vegetable Sauté",
+    "level": 7,
+    "group": "Entrees",
+    "flavors": [
+      "Salty"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "Red",
+      "Green"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Carrot.png",
+        "name": "Carrot\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Spinach.png",
+        "name": "Spinach\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Cabbage.png",
+        "name": "Cabbage\n",
+        "category": "Crop"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Garlic.png",
+      "name": "Garlic\n",
+      "category": "Crop"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Entrees_Tuna_Sandwich.png",
+    "name": "Tuna Sandwich",
+    "level": 7,
+    "group": "Entrees",
+    "flavors": [
+      "Mellow",
+      "Salty"
+    ],
+    "temperatures": [
+      "Room Temp"
+    ],
+    "colors": [
+      "White",
+      "Green"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Fish_Tuna.png",
+        "name": "Tuna\n",
+        "category": "Fish"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Vegetable_Group.png",
+        "name": "Vegetable Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Egg_Group.png",
+        "name": "Egg Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Bread_Group.png",
+        "name": "Bread Group\n",
+        "category": "Groups"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_WildPlant_Sage.png",
+      "name": "Sage\n",
+      "category": "WildPlant"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Entrees_Mixed_Rice.png",
+    "name": "Mixed Rice",
+    "level": 7,
+    "group": "Entrees",
+    "flavors": [
+      "Salty"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "Orange",
+      "Brown"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Carrot.png",
+        "name": "Carrot\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Burdock.png",
+        "name": "Burdock\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Mushroom_Shimeji_Mushroom.png",
+        "name": "Shimeji Mushroom\n",
+        "category": "Mushroom"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Other_Dishes_Cooked_White_Rice.png",
+        "name": "Cooked White Rice\n",
+        "category": "Other"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_WildPlant_Bamboo_Shoot.png",
+      "name": "Bamboo Shoot\n",
+      "category": "WildPlant"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Entrees_French_Toast.png",
+    "name": "French Toast",
+    "level": 7,
+    "group": "Entrees",
+    "flavors": [
+      "Mellow",
+      "Sweet"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "Orange",
+      "Brown",
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Comb_Honey.png",
+        "name": "Comb Honey\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Milk_Group.png",
+        "name": "Milk Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Egg_Group.png",
+        "name": "Egg Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Bread_Group.png",
+        "name": "Bread Group\n",
+        "category": "Groups"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Orange.png",
+      "name": "Orange\n",
+      "category": "Crop"
+    },
+    "how_to": "",
+    "lovett": 4
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Entrees_Boiled_Vegetables.png",
+    "name": "Boiled Vegetables",
+    "level": 7,
+    "group": "Entrees",
+    "flavors": [
+      "Salty"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "Brown",
+      "Green"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Soy_Sauce.png",
+        "name": "Soy Sauce\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Okra.png",
+        "name": "Okra\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Daikon_Radish_Group.png",
+        "name": "Daikon Radish Group\n",
+        "category": "Groups"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Sugar.png",
+      "name": "Sugar\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Entrees_Jam_Sandwich.png",
+    "name": "Jam Sandwich",
+    "level": 7,
+    "group": "Entrees",
+    "flavors": [
+      "Mellow",
+      "Sweet"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "White",
+      "Red",
+      "Green"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Butter.png",
+        "name": "Butter\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Jam_Group.png",
+        "name": "Jam Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Bread_Group.png",
+        "name": "Bread Group\n",
+        "category": "Groups"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Yogurt.png",
+      "name": "Yogurt\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Entrees_Brothy_Fried_Vegetables.png",
+    "name": "Brothy Fried Vegetables",
+    "level": 6,
+    "group": "Entrees",
+    "flavors": [
+      "Salty"
+    ],
+    "temperatures": [
+      "Cold",
+      "Warm"
+    ],
+    "colors": [
+      "Orange",
+      "Green",
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Okra.png",
+        "name": "Okra\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Pumpkin.png",
+        "name": "Pumpkin\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Eggplant_Group.png",
+        "name": "Eggplant Group\n",
+        "category": "Groups"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Soy_Sauce.png",
+      "name": "Soy Sauce\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Entrees_Seafood_Cataplana.png",
+    "name": "Seafood Cataplana",
+    "level": 6,
+    "group": "Entrees",
+    "flavors": [
+      "Salty"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "White",
+      "Red",
+      "Brown",
+      "Green"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Fish_Cuttlefish.png",
+        "name": "Cuttlefish\n",
+        "category": "Fish"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Crab_Group.png",
+        "name": "Crab Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Fish_Mahi-mahi.png",
+        "name": "Mahi-mahi\n",
+        "category": "Fish"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Bok_Choy.png",
+        "name": "Bok Choy\n",
+        "category": "Crop"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Fish_Abalone.png",
+      "name": "Abalone\n",
+      "category": "Fish"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Entrees_Sashimi_Bowl.png",
+    "name": "Sashimi Bowl",
+    "level": 6,
+    "group": "Entrees",
+    "flavors": [
+      "Salty"
+    ],
+    "temperatures": [
+      "Room Temp"
+    ],
+    "colors": [
+      "White",
+      "Red",
+      "Green"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Fish_Rock_Lobster.png",
+        "name": "Rock Lobster\n",
+        "category": "Fish"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Fish_Oyster.png",
+        "name": "Oyster\n",
+        "category": "Fish"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Fish_Salmon.png",
+        "name": "Salmon\n",
+        "category": "Fish"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Other_Dishes_Cooked_White_Rice.png",
+        "name": "Cooked White Rice\n",
+        "category": "Other"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Soy_Sauce.png",
+      "name": "Soy Sauce\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Entrees_Cal%C3%A7ots.png",
+    "name": "Calçots",
+    "level": 6,
+    "group": "Entrees",
+    "flavors": [
+      "Salty",
+      "Spicy"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "White",
+      "Orange",
+      "Brown",
+      "Green"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Pepper.png",
+        "name": "Pepper\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Salt.png",
+        "name": "Salt\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Olive_Oil.png",
+        "name": "Olive Oil\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Leek_Group.png",
+        "name": "Leek Group\n",
+        "category": "Groups"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Almond.png",
+      "name": "Almond\n",
+      "category": "Crop"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Entrees_Ratatouille.png",
+    "name": "Ratatouille",
+    "level": 6,
+    "group": "Entrees",
+    "flavors": [
+      "Sour",
+      "Salty",
+      "Spicy"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "Red",
+      "Orange",
+      "Green",
+      "Purple",
+      "Yellow",
+      "Black"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Eggplant_Group.png",
+        "name": "Eggplant Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Pepper.png",
+        "name": "Pepper\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Zucchini.png",
+        "name": "Zucchini\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Chili_Pepper.png",
+        "name": "Chili Pepper\n",
+        "category": "Crop"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Olive.png",
+      "name": "Olive\n",
+      "category": "Crop"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Entrees_Vegetable_Pizza.png",
+    "name": "Vegetable Pizza",
+    "level": 6,
+    "group": "Entrees",
+    "flavors": [
+      "Mellow",
+      "Salty"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "Red",
+      "Brown",
+      "Green",
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Cheese.png",
+        "name": "Cheese\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Broccoli.png",
+        "name": "Broccoli\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Vegetable_Group.png",
+        "name": "Vegetable Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Flour.png",
+        "name": "Flour\n",
+        "category": "MakerByproduct"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_WildPlant_Wild_Berry.png",
+      "name": "Wild Berry\n",
+      "category": "WildPlant"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Entrees_Boiled_Fish.png",
+    "name": "Boiled Fish",
+    "level": 5,
+    "group": "Entrees",
+    "flavors": [
+      "Salty",
+      "Sweet"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "Brown"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Soy_Sauce.png",
+        "name": "Soy Sauce\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Daikon_Radish_Group.png",
+        "name": "Daikon Radish Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Medium_Fish_Group.png",
+        "name": "Medium Fish Group\n",
+        "category": "Groups"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Sugar.png",
+      "name": "Sugar\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Entrees_Chestnut_Rice.png",
+    "name": "Chestnut Rice",
+    "level": 5,
+    "group": "Entrees",
+    "flavors": [
+      "Salty",
+      "Sweet"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "White",
+      "Purple",
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Sweet_Potato_Group.png",
+        "name": "Sweet Potato Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_WildPlant_Chestnut.png",
+        "name": "Chestnut\n",
+        "category": "WildPlant"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Other_Dishes_Cooked_White_Rice.png",
+        "name": "Cooked White Rice\n",
+        "category": "Other"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Mushroom_Matsutake_Mushroom.png",
+      "name": "Matsutake Mushroom\n",
+      "category": "Mushroom"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Entrees_Neapolitan_Pasta.png",
+    "name": "Neapolitan Pasta",
+    "level": 5,
+    "group": "Entrees",
+    "flavors": [
+      "Sour",
+      "Salty"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "Orange",
+      "Green",
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Green_Pepper.png",
+        "name": "Green Pepper\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Onion.png",
+        "name": "Onion\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Tomato_Group.png",
+        "name": "Tomato Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Flour.png",
+        "name": "Flour\n",
+        "category": "MakerByproduct"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_WildPlant_Sage.png",
+      "name": "Sage\n",
+      "category": "WildPlant"
+    },
+    "how_to": "",
+    "lovett": 4
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Entrees_Kitsune_Udon.png",
+    "name": "Kitsune Udon",
+    "level": 5,
+    "group": "Entrees",
+    "flavors": [
+      "Sour",
+      "Salty",
+      "Sweet"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "White",
+      "Brown",
+      "Green"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Flour.png",
+        "name": "Flour\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Beans.png",
+        "name": "Beans\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Soy_Sauce.png",
+        "name": "Soy Sauce\n",
+        "category": "MakerByproduct"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Leek_Group.png",
+      "name": "Leek Group\n",
+      "category": "Groups"
+    },
+    "how_to": "",
+    "lovett": 2
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Entrees_Pizza.png",
+    "name": "Pizza",
+    "level": 5,
+    "group": "Entrees",
+    "flavors": [
+      "Sour",
+      "Mellow",
+      "Salty"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "Red",
+      "Brown",
+      "Green"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Cheese.png",
+        "name": "Cheese\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Tomato_Group.png",
+        "name": "Tomato Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Flour.png",
+        "name": "Flour\n",
+        "category": "MakerByproduct"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Pineapple.png",
+      "name": "Pineapple\n",
+      "category": "Crop"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Entrees_Baked_Beans.png",
+    "name": "Baked Beans",
+    "level": 5,
+    "group": "Entrees",
+    "flavors": [
+      "Salty"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "Red",
+      "Orange",
+      "Black"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Pepper.png",
+        "name": "Pepper\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Green_Pepper.png",
+        "name": "Green Pepper\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Beans.png",
+        "name": "Beans\n",
+        "category": "Crop"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Olive.png",
+      "name": "Olive\n",
+      "category": "Crop"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Entrees_Unaju.png",
+    "name": "Unaju",
+    "level": 4,
+    "group": "Entrees",
+    "flavors": [
+      "Salty",
+      "Sweet"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "White",
+      "Brown",
+      "Green"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Sugar.png",
+        "name": "Sugar\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Soy_Sauce.png",
+        "name": "Soy Sauce\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Fish_Eel.png",
+        "name": "Eel\n",
+        "category": "Fish"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Other_Dishes_Cooked_White_Rice.png",
+        "name": "Cooked White Rice\n",
+        "category": "Other"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Mixed_Herbs.png",
+      "name": "Mixed Herbs\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Entrees_Pescatore.png",
+    "name": "Pescatore",
+    "level": 4,
+    "group": "Entrees",
+    "flavors": [
+      "Sour",
+      "Spicy"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "Red",
+      "Orange",
+      "Black"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Tomato_Group.png",
+        "name": "Tomato Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Fish_Mussel.png",
+        "name": "Mussel\n",
+        "category": "Fish"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Shrimp_Group.png",
+        "name": "Shrimp Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Flour.png",
+        "name": "Flour\n",
+        "category": "MakerByproduct"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_WildPlant_Sage.png",
+      "name": "Sage\n",
+      "category": "WildPlant"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Entrees_Tempura.png",
+    "name": "Tempura",
+    "level": 4,
+    "group": "Entrees",
+    "flavors": [
+      "Mellow",
+      "Salty"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "Red",
+      "Brown",
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Fish_Oyster.png",
+        "name": "Oyster\n",
+        "category": "Fish"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Vegetable_Group.png",
+        "name": "Vegetable Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Fish_Giant_Tiger_Shrimp.png",
+        "name": "Giant Tiger Shrimp\n",
+        "category": "Fish"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Flour.png",
+        "name": "Flour\n",
+        "category": "MakerByproduct"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Salt.png",
+      "name": "Salt\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 2
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Entrees_Chili_Shrimp.png",
+    "name": "Chili Shrimp",
+    "level": 4,
+    "group": "Entrees",
+    "flavors": [
+      "Sour",
+      "Spicy"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "Red",
+      "Orange",
+      "Green"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Chili_Pepper.png",
+        "name": "Chili Pepper\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Tomato_Group.png",
+        "name": "Tomato Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Fish_Giant_Freshwater_Prawn.png",
+        "name": "Giant Freshwater Prawn\n",
+        "category": "Fish"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Mixed_Spices.png",
+      "name": "Mixed Spices\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Entrees_Chuka_Soba.png",
+    "name": "Chuka Soba",
+    "level": 4,
+    "group": "Entrees",
+    "flavors": [
+      "Salty"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "Peach",
+      "Brown"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Flour.png",
+        "name": "Flour\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Small_Fish_Group.png",
+        "name": "Small Fish Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Soy_Sauce.png",
+        "name": "Soy Sauce\n",
+        "category": "MakerByproduct"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_WildPlant_Bamboo_Shoot.png",
+      "name": "Bamboo Shoot\n",
+      "category": "WildPlant"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Entrees_Sea_Bream_Sashimi.png",
+    "name": "Sea Bream Sashimi",
+    "level": 4,
+    "group": "Entrees",
+    "flavors": [
+      "Salty"
+    ],
+    "temperatures": [
+      "Cold"
+    ],
+    "colors": [
+      "White",
+      "Peach",
+      "Green"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Soy_Sauce.png",
+        "name": "Soy Sauce\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Fish_Sea_Bream.png",
+        "name": "Sea Bream\n",
+        "category": "Fish"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Fish_Flounder.png",
+      "name": "Flounder\n",
+      "category": "Fish"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Entrees_Okra_Curry.png",
+    "name": "Okra Curry",
+    "level": 3,
+    "group": "Entrees",
+    "flavors": [
+      "Spicy"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "White",
+      "Red",
+      "Brown",
+      "Green"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Mixed_Spices.png",
+        "name": "Mixed Spices\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Pepper.png",
+        "name": "Pepper\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Okra.png",
+        "name": "Okra\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Other_Dishes_Cooked_White_Rice.png",
+        "name": "Cooked White Rice\n",
+        "category": "Other"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Yogurt.png",
+      "name": "Yogurt\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 4
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Entrees_Shrimp_Toast.png",
+    "name": "Shrimp Toast",
+    "level": 3,
+    "group": "Entrees",
+    "flavors": [
+      "Salty"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "Red",
+      "Orange",
+      "Brown"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Bread_Group.png",
+        "name": "Bread Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Soy_Sauce.png",
+        "name": "Soy Sauce\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Shrimp_Group.png",
+        "name": "Shrimp Group\n",
+        "category": "Groups"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Pepper.png",
+      "name": "Pepper\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Entrees_Mala_Crayfish.png",
+    "name": "Mala Crayfish",
+    "level": 3,
+    "group": "Entrees",
+    "flavors": [
+      "Spicy"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "Red"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Mixed_Herbs.png",
+        "name": "Mixed Herbs\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Mixed_Spices.png",
+        "name": "Mixed Spices\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Fish_Crayfish.png",
+        "name": "Crayfish\n",
+        "category": "Fish"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Pepper.png",
+      "name": "Pepper\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 1
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Entrees_Omelet.png",
+    "name": "Omelet",
+    "level": 3,
+    "group": "Entrees",
+    "flavors": [
+      "Sour",
+      "Mellow"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "Red",
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Tomato_Group.png",
+        "name": "Tomato Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Egg_Group.png",
+        "name": "Egg Group\n",
+        "category": "Groups"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Mayonnaise.png",
+      "name": "Mayonnaise\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Entrees_Egg_Sandwich.png",
+    "name": "Egg Sandwich",
+    "level": 2,
+    "group": "Entrees",
+    "flavors": [
+      "Mellow"
+    ],
+    "temperatures": [
+      "Room Temp"
+    ],
+    "colors": [
+      "White",
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Egg_Group.png",
+        "name": "Egg Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Bread_Group.png",
+        "name": "Bread Group\n",
+        "category": "Groups"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Mayonnaise.png",
+      "name": "Mayonnaise\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 4
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Entrees_Curry_Rice.png",
+    "name": "Curry Rice",
+    "level": 2,
+    "group": "Entrees",
+    "flavors": [
+      "Spicy"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "Brown",
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Potato_Group.png",
+        "name": "Potato Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Mixed_Spices.png",
+        "name": "Mixed Spices\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Other_Dishes_Cooked_White_Rice.png",
+        "name": "Cooked White Rice\n",
+        "category": "Other"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Onion.png",
+      "name": "Onion\n",
+      "category": "Crop"
+    },
+    "how_to": "",
+    "lovett": 1
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Entrees_Vegetable_Sandwich.png",
+    "name": "Vegetable Sandwich",
+    "level": 2,
+    "group": "Entrees",
+    "flavors": [
+      "Sour",
+      "Sweet"
+    ],
+    "temperatures": [
+      "Room Temp"
+    ],
+    "colors": [
+      "White",
+      "Red",
+      "Green"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_WildPlant_Wild_Berry.png",
+        "name": "Wild Berry\n",
+        "category": "WildPlant"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Vegetable_Group.png",
+        "name": "Vegetable Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Bread_Group.png",
+        "name": "Bread Group\n",
+        "category": "Groups"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Mayonnaise.png",
+      "name": "Mayonnaise\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 4
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Entrees_Fried_Egg.png",
+    "name": "Fried Egg",
+    "level": 1,
+    "group": "Entrees",
+    "flavors": [
+      "Salty"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "White",
+      "Brown",
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Egg_Group.png",
+        "name": "Egg Group\n",
+        "category": "Groups"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Soy_Sauce.png",
+      "name": "Soy Sauce\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 1
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Entrees_Grilled_Fish.png",
+    "name": "Grilled Fish",
+    "level": 1,
+    "group": "Entrees",
+    "flavors": [
+      "Salty"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "White",
+      "Brown",
+      "Green",
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Fish_Group.png",
+        "name": "Fish Group\n",
+        "category": "Groups"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Lemon.png",
+      "name": "Lemon\n",
+      "category": "Crop"
+    },
+    "how_to": "",
+    "lovett": 11
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Desserts_Panna_Cotta.png",
+    "name": "Panna Cotta",
+    "level": 10,
+    "group": "Desserts",
+    "flavors": [
+      "Mellow",
+      "Sweet"
+    ],
+    "temperatures": [
+      "Cold"
+    ],
+    "colors": [
+      "Orange",
+      "Green",
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_WildPlant_Golden_Rain_Rosemary.png",
+        "name": "Golden Rain Rosemary\n",
+        "category": "WildPlant"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Orange.png",
+        "name": "Orange\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Royal_Jelly.png",
+        "name": "Royal Jelly\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Milk_Group.png",
+        "name": "Milk Group\n",
+        "category": "Groups"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Cocoa_Powder.png",
+      "name": "Cocoa Powder\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 11
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Desserts_Honeyed_Sweet_Potatoes.png",
+    "name": "Honeyed Sweet Potatoes",
+    "level": 10,
+    "group": "Desserts",
+    "flavors": [
+      "Mellow",
+      "Sweet"
+    ],
+    "temperatures": [
+      "Cold"
+    ],
+    "colors": [
+      "White",
+      "Brown",
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Comb_Honey.png",
+        "name": "Comb Honey\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Coconut.png",
+        "name": "Coconut\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Sweet_Potato_Group.png",
+        "name": "Sweet Potato Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Flour.png",
+        "name": "Flour\n",
+        "category": "MakerByproduct"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Sugar.png",
+      "name": "Sugar\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Desserts_Panellets.png",
+    "name": "Panellets",
+    "level": 10,
+    "group": "Desserts",
+    "flavors": [
+      "Mellow",
+      "Sweet"
+    ],
+    "temperatures": [
+      "Cold"
+    ],
+    "colors": [
+      "White",
+      "Brown",
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Egg_Group.png",
+        "name": "Egg Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Coconut.png",
+        "name": "Coconut\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Sweet_Potato_Group.png",
+        "name": "Sweet Potato Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Almond.png",
+        "name": "Almond\n",
+        "category": "Crop"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Coffee_Powder.png",
+      "name": "Coffee Powder\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Desserts_Khaoniao_Mamuang.png",
+    "name": "Khaoniao Mamuang",
+    "level": 10,
+    "group": "Desserts",
+    "flavors": [
+      "Sour",
+      "Salty",
+      "Sweet"
+    ],
+    "temperatures": [
+      "Cold"
+    ],
+    "colors": [
+      "White",
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Salt.png",
+        "name": "Salt\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Coconut.png",
+        "name": "Coconut\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Mango.png",
+        "name": "Mango\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Rice.png",
+        "name": "Rice\n",
+        "category": "Crop"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Sugar.png",
+      "name": "Sugar\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Desserts_Lamington.png",
+    "name": "Lamington",
+    "level": 9,
+    "group": "Desserts",
+    "flavors": [
+      "Mellow",
+      "Sweet"
+    ],
+    "temperatures": [
+      "Cold"
+    ],
+    "colors": [
+      "White",
+      "Yellow",
+      "Black"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Coconut.png",
+        "name": "Coconut\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Cocoa_Powder.png",
+        "name": "Cocoa Powder\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Sugar.png",
+        "name": "Sugar\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Flour.png",
+        "name": "Flour\n",
+        "category": "MakerByproduct"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Coffee_Powder.png",
+      "name": "Coffee Powder\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Desserts_Black_Forest_Cake.png",
+    "name": "Black Forest Cake",
+    "level": 9,
+    "group": "Desserts",
+    "flavors": [
+      "Sour",
+      "Mellow",
+      "Sweet"
+    ],
+    "temperatures": [
+      "Cold"
+    ],
+    "colors": [
+      "White",
+      "Red",
+      "Brown"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Cherry.png",
+        "name": "Cherry\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Cocoa_Powder.png",
+        "name": "Cocoa Powder\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Egg_Group.png",
+        "name": "Egg Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Flour.png",
+        "name": "Flour\n",
+        "category": "MakerByproduct"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Milk_Group.png",
+      "name": "Milk Group\n",
+      "category": "Groups"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Desserts_Brownies.png",
+    "name": "Brownies",
+    "level": 9,
+    "group": "Desserts",
+    "flavors": [
+      "Mellow",
+      "Sweet"
+    ],
+    "temperatures": [
+      "Cold"
+    ],
+    "colors": [
+      "Brown",
+      "Black"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Egg_Group.png",
+        "name": "Egg Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Milk_Group.png",
+        "name": "Milk Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Butter.png",
+        "name": "Butter\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Cocoa_Powder.png",
+        "name": "Cocoa Powder\n",
+        "category": "MakerByproduct"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Coffee_Powder.png",
+      "name": "Coffee Powder\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Desserts_Tiramisu.png",
+    "name": "Tiramisu",
+    "level": 9,
+    "group": "Desserts",
+    "flavors": [
+      "Mellow",
+      "Sweet"
+    ],
+    "temperatures": [
+      "Cold"
+    ],
+    "colors": [
+      "White",
+      "Brown",
+      "Black"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Cheese.png",
+        "name": "Cheese\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Coffee_Powder.png",
+        "name": "Coffee Powder\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Egg_Group.png",
+        "name": "Egg Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Milk_Group.png",
+        "name": "Milk Group\n",
+        "category": "Groups"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Cocoa_Powder.png",
+      "name": "Cocoa Powder\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 6
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Desserts_Chocolate_Cookies.png",
+    "name": "Chocolate Cookies",
+    "level": 8,
+    "group": "Desserts",
+    "flavors": [
+      "Mellow",
+      "Sweet"
+    ],
+    "temperatures": [
+      "Room Temp"
+    ],
+    "colors": [
+      "Brown",
+      "Black"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Almond.png",
+        "name": "Almond\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Cocoa_Powder.png",
+        "name": "Cocoa Powder\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Egg_Group.png",
+        "name": "Egg Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Flour.png",
+        "name": "Flour\n",
+        "category": "MakerByproduct"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Tea_Leaves.png",
+      "name": "Tea Leaves\n",
+      "category": "Crop"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Desserts_Sachertorte.png",
+    "name": "Sachertorte",
+    "level": 8,
+    "group": "Desserts",
+    "flavors": [
+      "Mellow",
+      "Sweet"
+    ],
+    "temperatures": [
+      "Cold"
+    ],
+    "colors": [
+      "Brown",
+      "Black"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Cocoa_Powder.png",
+        "name": "Cocoa Powder\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Flour.png",
+        "name": "Flour\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Butter.png",
+        "name": "Butter\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Egg_Group.png",
+        "name": "Egg Group\n",
+        "category": "Groups"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Jam_Group.png",
+      "name": "Jam Group\n",
+      "category": "Groups"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Desserts_Chocolate_Cake.png",
+    "name": "Chocolate Cake",
+    "level": 8,
+    "group": "Desserts",
+    "flavors": [
+      "Mellow",
+      "Sweet"
+    ],
+    "temperatures": [
+      "Cold"
+    ],
+    "colors": [
+      "Brown",
+      "Black"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Milk_Group.png",
+        "name": "Milk Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Egg_Group.png",
+        "name": "Egg Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Cocoa_Powder.png",
+        "name": "Cocoa Powder\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Flour.png",
+        "name": "Flour\n",
+        "category": "MakerByproduct"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Banana.png",
+      "name": "Banana\n",
+      "category": "Crop"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Desserts_Honey_Pudding.png",
+    "name": "Honey Pudding",
+    "level": 8,
+    "group": "Desserts",
+    "flavors": [
+      "Mellow",
+      "Sweet"
+    ],
+    "temperatures": [
+      "Cold"
+    ],
+    "colors": [
+      "Brown",
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Worker_Jelly.png",
+        "name": "Worker Jelly\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Sugar.png",
+        "name": "Sugar\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Milk_Group.png",
+        "name": "Milk Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Egg_Group.png",
+        "name": "Egg Group\n",
+        "category": "Groups"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Honey_Group.png",
+      "name": "Honey Group\n",
+      "category": "Groups"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Desserts_Chocolate_Muffin.png",
+    "name": "Chocolate Muffin",
+    "level": 7,
+    "group": "Desserts",
+    "flavors": [
+      "Mellow",
+      "Sweet"
+    ],
+    "temperatures": [
+      "Room Temp"
+    ],
+    "colors": [
+      "Brown",
+      "Black"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Cocoa_Powder.png",
+        "name": "Cocoa Powder\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Milk_Group.png",
+        "name": "Milk Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Egg_Group.png",
+        "name": "Egg Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Flour.png",
+        "name": "Flour\n",
+        "category": "MakerByproduct"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Coffee_Powder.png",
+      "name": "Coffee Powder\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Desserts_Nut_Muffin.png",
+    "name": "Nut Muffin",
+    "level": 7,
+    "group": "Desserts",
+    "flavors": [
+      "Mellow",
+      "Sweet"
+    ],
+    "temperatures": [
+      "Room Temp"
+    ],
+    "colors": [
+      "White",
+      "Brown"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Almond.png",
+        "name": "Almond\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Milk_Group.png",
+        "name": "Milk Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Egg_Group.png",
+        "name": "Egg Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Flour.png",
+        "name": "Flour\n",
+        "category": "MakerByproduct"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Mixed_Herbs.png",
+      "name": "Mixed Herbs\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Desserts_Almond_Cookies.png",
+    "name": "Almond Cookies",
+    "level": 7,
+    "group": "Desserts",
+    "flavors": [
+      "Mellow",
+      "Sweet"
+    ],
+    "temperatures": [
+      "Room Temp"
+    ],
+    "colors": [
+      "White",
+      "Brown"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Almond.png",
+        "name": "Almond\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Milk_Group.png",
+        "name": "Milk Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Egg_Group.png",
+        "name": "Egg Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Flour.png",
+        "name": "Flour\n",
+        "category": "MakerByproduct"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Cocoa_Powder.png",
+      "name": "Cocoa Powder\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Desserts_Cheesecake.png",
+    "name": "Cheesecake",
+    "level": 7,
+    "group": "Desserts",
+    "flavors": [
+      "Sour",
+      "Mellow",
+      "Sweet"
+    ],
+    "temperatures": [
+      "Cold"
+    ],
+    "colors": [
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Milk_Group.png",
+        "name": "Milk Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Egg_Group.png",
+        "name": "Egg Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Cheese.png",
+        "name": "Cheese\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Flour.png",
+        "name": "Flour\n",
+        "category": "MakerByproduct"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Lemon.png",
+      "name": "Lemon\n",
+      "category": "Crop"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Desserts_Fruitcake.png",
+    "name": "Fruitcake",
+    "level": 6,
+    "group": "Desserts",
+    "flavors": [
+      "Sour",
+      "Mellow",
+      "Sweet"
+    ],
+    "temperatures": [
+      "Cold"
+    ],
+    "colors": [
+      "White",
+      "Red",
+      "Green",
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Milk_Group.png",
+        "name": "Milk Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Egg_Group.png",
+        "name": "Egg Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Fruit_Group.png",
+        "name": "Fruit Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Flour.png",
+        "name": "Flour\n",
+        "category": "MakerByproduct"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Melon_Group.png",
+      "name": "Melon Group\n",
+      "category": "Groups"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Desserts_Shortcake.png",
+    "name": "Shortcake",
+    "level": 6,
+    "group": "Desserts",
+    "flavors": [
+      "Sour",
+      "Mellow",
+      "Sweet"
+    ],
+    "temperatures": [
+      "Cold"
+    ],
+    "colors": [
+      "White",
+      "Red",
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Milk_Group.png",
+        "name": "Milk Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Egg_Group.png",
+        "name": "Egg Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Strawberry_Group.png",
+        "name": "Strawberry Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Flour.png",
+        "name": "Flour\n",
+        "category": "MakerByproduct"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Mango.png",
+      "name": "Mango\n",
+      "category": "Crop"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Desserts_Cookies.png",
+    "name": "Cookies",
+    "level": 6,
+    "group": "Desserts",
+    "flavors": [
+      "Mellow",
+      "Sweet"
+    ],
+    "temperatures": [
+      "Room Temp"
+    ],
+    "colors": [
+      "Brown"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Butter.png",
+        "name": "Butter\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Milk_Group.png",
+        "name": "Milk Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Egg_Group.png",
+        "name": "Egg Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Flour.png",
+        "name": "Flour\n",
+        "category": "MakerByproduct"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Tea_Leaves.png",
+      "name": "Tea Leaves\n",
+      "category": "Crop"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Desserts_Coffee_Pudding.png",
+    "name": "Coffee Pudding",
+    "level": 6,
+    "group": "Desserts",
+    "flavors": [
+      "Mellow",
+      "Sweet"
+    ],
+    "temperatures": [
+      "Cold"
+    ],
+    "colors": [
+      "Brown",
+      "Black"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Coffee_Powder.png",
+        "name": "Coffee Powder\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Sugar.png",
+        "name": "Sugar\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Milk_Group.png",
+        "name": "Milk Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Egg_Group.png",
+        "name": "Egg Group\n",
+        "category": "Groups"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Cocoa_Powder.png",
+      "name": "Cocoa Powder\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Desserts_Baked_Apple.png",
+    "name": "Baked Apple",
+    "level": 5,
+    "group": "Desserts",
+    "flavors": [
+      "Sour",
+      "Sweet"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "Red",
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Butter.png",
+        "name": "Butter\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Honey.png",
+        "name": "Honey\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Apple_Group.png",
+        "name": "Apple Group\n",
+        "category": "Groups"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Almond.png",
+      "name": "Almond\n",
+      "category": "Crop"
+    },
+    "how_to": "",
+    "lovett": 4
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Desserts_Maple_Muffin.png",
+    "name": "Maple Muffin",
+    "level": 5,
+    "group": "Desserts",
+    "flavors": [
+      "Mellow",
+      "Sweet"
+    ],
+    "temperatures": [
+      "Room Temp"
+    ],
+    "colors": [
+      "Brown",
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Honey.png",
+        "name": "Honey\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Milk_Group.png",
+        "name": "Milk Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Egg_Group.png",
+        "name": "Egg Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Flour.png",
+        "name": "Flour\n",
+        "category": "MakerByproduct"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Honey_Group.png",
+      "name": "Honey Group\n",
+      "category": "Groups"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Desserts_Injeolmi_Toast.png",
+    "name": "Injeolmi Toast",
+    "level": 5,
+    "group": "Desserts",
+    "flavors": [
+      "Mellow",
+      "Sweet"
+    ],
+    "temperatures": [
+      "Room Temp"
+    ],
+    "colors": [
+      "Brown",
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Rice.png",
+        "name": "Rice\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Honey.png",
+        "name": "Honey\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Beans.png",
+        "name": "Beans\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Bread_Group.png",
+        "name": "Bread Group\n",
+        "category": "Groups"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Cocoa_Powder.png",
+      "name": "Cocoa Powder\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Desserts_Mont_Blanc.png",
+    "name": "Mont Blanc",
+    "level": 5,
+    "group": "Desserts",
+    "flavors": [
+      "Mellow",
+      "Sweet"
+    ],
+    "temperatures": [
+      "Cold"
+    ],
+    "colors": [
+      "White",
+      "Brown",
+      "Black"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Milk_Group.png",
+        "name": "Milk Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Egg_Group.png",
+        "name": "Egg Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_WildPlant_Chestnut.png",
+        "name": "Chestnut\n",
+        "category": "WildPlant"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Flour.png",
+        "name": "Flour\n",
+        "category": "MakerByproduct"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Sugar.png",
+      "name": "Sugar\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 6
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Desserts_Candied_Sweet_Potatoes.png",
+    "name": "Candied Sweet Potatoes",
+    "level": 4,
+    "group": "Desserts",
+    "flavors": [
+      "Mellow",
+      "Sweet"
+    ],
+    "temperatures": [
+      "Cold"
+    ],
+    "colors": [
+      "Brown",
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Sweet_Potato_Group.png",
+        "name": "Sweet Potato Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Flour.png",
+        "name": "Flour\n",
+        "category": "MakerByproduct"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Sugar.png",
+      "name": "Sugar\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Desserts_Honey_Yogurt.png",
+    "name": "Honey Yogurt",
+    "level": 4,
+    "group": "Desserts",
+    "flavors": [
+      "Sour",
+      "Sweet"
+    ],
+    "temperatures": [
+      "Cold"
+    ],
+    "colors": [
+      "White",
+      "Brown"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Honey.png",
+        "name": "Honey\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Yogurt.png",
+        "name": "Yogurt\n",
+        "category": "MakerByproduct"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Orange.png",
+      "name": "Orange\n",
+      "category": "Crop"
+    },
+    "how_to": "",
+    "lovett": 2
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Desserts_Pancakes.png",
+    "name": "Pancakes",
+    "level": 4,
+    "group": "Desserts",
+    "flavors": [
+      "Mellow",
+      "Sweet"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "White",
+      "Brown",
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Milk_Group.png",
+        "name": "Milk Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Egg_Group.png",
+        "name": "Egg Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Flour.png",
+        "name": "Flour\n",
+        "category": "MakerByproduct"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Almond.png",
+      "name": "Almond\n",
+      "category": "Crop"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Desserts_Pudding.png",
+    "name": "Pudding",
+    "level": 3,
+    "group": "Desserts",
+    "flavors": [
+      "Mellow",
+      "Sweet"
+    ],
+    "temperatures": [
+      "Cold"
+    ],
+    "colors": [
+      "Brown",
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Sugar.png",
+        "name": "Sugar\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Milk_Group.png",
+        "name": "Milk Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Egg_Group.png",
+        "name": "Egg Group\n",
+        "category": "Groups"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Cherry.png",
+      "name": "Cherry\n",
+      "category": "Crop"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Desserts_Botamochi.png",
+    "name": "Botamochi",
+    "level": 3,
+    "group": "Desserts",
+    "flavors": [
+      "Sweet"
+    ],
+    "temperatures": [
+      "Room Temp"
+    ],
+    "colors": [
+      "White",
+      "Green",
+      "Black"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Beans.png",
+        "name": "Beans\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Sugar.png",
+        "name": "Sugar\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Tea_Leaves.png",
+        "name": "Tea Leaves\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Rice.png",
+        "name": "Rice\n",
+        "category": "Crop"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Salt.png",
+      "name": "Salt\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Desserts_Chestnut_Monaka.png",
+    "name": "Chestnut Monaka",
+    "level": 3,
+    "group": "Desserts",
+    "flavors": [
+      "Sweet"
+    ],
+    "temperatures": [
+      "Room Temp"
+    ],
+    "colors": [
+      "Yellow",
+      "Black"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_WildPlant_Chestnut.png",
+        "name": "Chestnut\n",
+        "category": "WildPlant"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Rice.png",
+        "name": "Rice\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Beans.png",
+        "name": "Beans\n",
+        "category": "Crop"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Sugar.png",
+      "name": "Sugar\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Desserts_Strawberry_Daifuku.png",
+    "name": "Strawberry Daifuku",
+    "level": 2,
+    "group": "Desserts",
+    "flavors": [
+      "Sour",
+      "Sweet"
+    ],
+    "temperatures": [
+      "Room Temp"
+    ],
+    "colors": [
+      "White",
+      "Red",
+      "Green"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Sugar.png",
+        "name": "Sugar\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Strawberry_Group.png",
+        "name": "Strawberry Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Rice.png",
+        "name": "Rice\n",
+        "category": "Crop"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Salt.png",
+      "name": "Salt\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Desserts_Oshiruko.png",
+    "name": "Oshiruko",
+    "level": 2,
+    "group": "Desserts",
+    "flavors": [
+      "Sweet"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "White",
+      "Black"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Sugar.png",
+        "name": "Sugar\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Rice.png",
+        "name": "Rice\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Beans.png",
+        "name": "Beans\n",
+        "category": "Crop"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Salt.png",
+      "name": "Salt\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 4
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Desserts_Fruit_Comp%C3%B4te.png",
+    "name": "Fruit Compôte",
+    "level": 1,
+    "group": "Desserts",
+    "flavors": [
+      "Sweet"
+    ],
+    "temperatures": [
+      "Cold"
+    ],
+    "colors": [
+      "Red",
+      "Orange",
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Sugar.png",
+        "name": "Sugar\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Fruit_Group.png",
+        "name": "Fruit Group\n",
+        "category": "Groups"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Cherry.png",
+      "name": "Cherry\n",
+      "category": "Crop"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Desserts_Mugwort_Daifuku.png",
+    "name": "Mugwort Daifuku",
+    "level": 1,
+    "group": "Desserts",
+    "flavors": [
+      "Sweet"
+    ],
+    "temperatures": [
+      "Room Temp"
+    ],
+    "colors": [
+      "Brown",
+      "Purple",
+      "Black"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Tea_Leaves.png",
+        "name": "Tea Leaves\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Rice.png",
+        "name": "Rice\n",
+        "category": "Crop"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Salt.png",
+      "name": "Salt\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Other_Dishes_Fruit_au_Lait.png",
+    "name": "Fruit au Lait",
+    "level": 10,
+    "group": "Other",
+    "flavors": [
+      "Sour",
+      "Mellow",
+      "Sweet"
+    ],
+    "temperatures": [
+      "Cold"
+    ],
+    "colors": [
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Milk_Group.png",
+        "name": "Milk Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Peach_Group.png",
+        "name": "Peach Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Pineapple.png",
+        "name": "Pineapple\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Strawberry_Group.png",
+        "name": "Strawberry Group\n",
+        "category": "Groups"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Banana.png",
+      "name": "Banana\n",
+      "category": "Crop"
+    },
+    "how_to": "",
+    "lovett": 11
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Other_Dishes_Honey_Lemon_Juice.png",
+    "name": "Honey Lemon Juice",
+    "level": 10,
+    "group": "Other",
+    "flavors": [
+      "Sour",
+      "Sweet"
+    ],
+    "temperatures": [
+      "Cold"
+    ],
+    "colors": [
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Lemon.png",
+        "name": "Lemon\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_WildPlant_Golden_Rain_Rosemary.png",
+        "name": "Golden Rain Rosemary\n",
+        "category": "WildPlant"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Royal_Jelly.png",
+        "name": "Royal Jelly\n",
+        "category": "MakerByproduct"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Sugar.png",
+      "name": "Sugar\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Other_Dishes_Mango_Juice.png",
+    "name": "Mango Juice",
+    "level": 10,
+    "group": "Other",
+    "flavors": [
+      "Sour",
+      "Sweet"
+    ],
+    "temperatures": [
+      "Cold"
+    ],
+    "colors": [
+      "Orange",
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Mango_Jam.png",
+        "name": "Mango Jam\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Mango.png",
+        "name": "Mango\n",
+        "category": "Crop"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Strawberry_Group.png",
+      "name": "Strawberry Group\n",
+      "category": "Groups"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Other_Dishes_Honey_Milk_Cocoa.png",
+    "name": "Honey Milk Cocoa",
+    "level": 10,
+    "group": "Other",
+    "flavors": [
+      "Mellow",
+      "Sweet"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "Orange",
+      "Brown",
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Worker_Jelly.png",
+        "name": "Worker Jelly\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Milk_Group.png",
+        "name": "Milk Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Cocoa_Powder.png",
+        "name": "Cocoa Powder\n",
+        "category": "MakerByproduct"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Sugar.png",
+      "name": "Sugar\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Other_Dishes_Honey_Milk_Latte.png",
+    "name": "Honey Milk Latte",
+    "level": 9,
+    "group": "Other",
+    "flavors": [
+      "Mellow",
+      "Sweet"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "White",
+      "Brown"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Worker_Jelly.png",
+        "name": "Worker Jelly\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Milk_Group.png",
+        "name": "Milk Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Coffee_Powder.png",
+        "name": "Coffee Powder\n",
+        "category": "MakerByproduct"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Mixed_Herbs.png",
+      "name": "Mixed Herbs\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Other_Dishes_Cornbread.png",
+    "name": "Cornbread",
+    "level": 9,
+    "group": "Other",
+    "flavors": [
+      "Mellow",
+      "Sweet"
+    ],
+    "temperatures": [
+      "Room Temp"
+    ],
+    "colors": [
+      "Orange",
+      "Brown",
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Milk_Group.png",
+        "name": "Milk Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Corn_Group.png",
+        "name": "Corn Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Butter.png",
+        "name": "Butter\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Flour.png",
+        "name": "Flour\n",
+        "category": "MakerByproduct"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Yogurt.png",
+      "name": "Yogurt\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Other_Dishes_Caff%C3%A8_Mocha.png",
+    "name": "Caffè Mocha",
+    "level": 9,
+    "group": "Other",
+    "flavors": [
+      "Mellow"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "White",
+      "Brown",
+      "Black"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Cocoa_Powder.png",
+        "name": "Cocoa Powder\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Milk_Group.png",
+        "name": "Milk Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Coffee_Powder.png",
+        "name": "Coffee Powder\n",
+        "category": "MakerByproduct"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Sugar.png",
+      "name": "Sugar\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Other_Dishes_Banana_Milk.png",
+    "name": "Banana Milk",
+    "level": 9,
+    "group": "Other",
+    "flavors": [
+      "Mellow",
+      "Sweet"
+    ],
+    "temperatures": [
+      "Cold"
+    ],
+    "colors": [
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Milk_Group.png",
+        "name": "Milk Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Banana.png",
+        "name": "Banana\n",
+        "category": "Crop"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Yogurt.png",
+      "name": "Yogurt\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Other_Dishes_Grape_Juice.png",
+    "name": "Grape Juice",
+    "level": 8,
+    "group": "Other",
+    "flavors": [
+      "Sour",
+      "Sweet"
+    ],
+    "temperatures": [
+      "Cold"
+    ],
+    "colors": [
+      "Purple"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Grapes.png",
+        "name": "Grapes\n",
+        "category": "Crop"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Apple_Group.png",
+      "name": "Apple Group\n",
+      "category": "Groups"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Other_Dishes_Coconut_Juice.png",
+    "name": "Coconut Juice",
+    "level": 8,
+    "group": "Other",
+    "flavors": [
+      "Sour",
+      "Sweet"
+    ],
+    "temperatures": [
+      "Cold"
+    ],
+    "colors": [
+      "White"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_WildPlant_Lemon_Marigold.png",
+        "name": "Lemon Marigold\n",
+        "category": "WildPlant"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Coconut.png",
+        "name": "Coconut\n",
+        "category": "Crop"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Watermelon.png",
+      "name": "Watermelon\n",
+      "category": "Crop"
+    },
+    "how_to": "",
+    "lovett": 8
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Other_Dishes_Onion_Bread.png",
+    "name": "Onion Bread",
+    "level": 8,
+    "group": "Other",
+    "flavors": [
+      "Mellow",
+      "Salty"
+    ],
+    "temperatures": [
+      "Room Temp"
+    ],
+    "colors": [
+      "Orange",
+      "Brown",
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Onion.png",
+        "name": "Onion\n",
+        "category": "Crop"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Butter.png",
+        "name": "Butter\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Flour.png",
+        "name": "Flour\n",
+        "category": "MakerByproduct"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Honey_Group.png",
+      "name": "Honey Group\n",
+      "category": "Groups"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Other_Dishes_Cocoa.png",
+    "name": "Cocoa",
+    "level": 7,
+    "group": "Other",
+    "flavors": [
+      "Mellow"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "White",
+      "Brown"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Milk_Group.png",
+        "name": "Milk Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Cocoa_Powder.png",
+        "name": "Cocoa Powder\n",
+        "category": "MakerByproduct"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Mixed_Herbs.png",
+      "name": "Mixed Herbs\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Other_Dishes_Apple_Juice.png",
+    "name": "Apple Juice",
+    "level": 7,
+    "group": "Other",
+    "flavors": [
+      "Sour",
+      "Sweet"
+    ],
+    "temperatures": [
+      "Cold"
+    ],
+    "colors": [
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Apple_Group.png",
+        "name": "Apple Group\n",
+        "category": "Groups"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Orange.png",
+      "name": "Orange\n",
+      "category": "Crop"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Other_Dishes_Strawberry_Milk.png",
+    "name": "Strawberry Milk",
+    "level": 7,
+    "group": "Other",
+    "flavors": [
+      "Sour",
+      "Mellow",
+      "Sweet"
+    ],
+    "temperatures": [
+      "Cold"
+    ],
+    "colors": [
+      "Peach"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Milk_Group.png",
+        "name": "Milk Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Strawberry_Group.png",
+        "name": "Strawberry Group\n",
+        "category": "Groups"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Watermelon.png",
+      "name": "Watermelon\n",
+      "category": "Crop"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Other_Dishes_Chai.png",
+    "name": "Chai",
+    "level": 6,
+    "group": "Other",
+    "flavors": [
+      "Mellow",
+      "Sweet"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "Brown"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Mixed_Herbs.png",
+        "name": "Mixed Herbs\n",
+        "category": "MakerByproduct"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Milk_Group.png",
+        "name": "Milk Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Tea_Leaves.png",
+        "name": "Tea Leaves\n",
+        "category": "Crop"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Cocoa_Powder.png",
+      "name": "Cocoa Powder\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 4
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Other_Dishes_Milk_Tea.png",
+    "name": "Milk Tea",
+    "level": 6,
+    "group": "Other",
+    "flavors": [
+      "Mellow",
+      "Sweet"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "White",
+      "Brown"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Milk_Group.png",
+        "name": "Milk Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Tea_Leaves.png",
+        "name": "Tea Leaves\n",
+        "category": "Crop"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Honey_Group.png",
+      "name": "Honey Group\n",
+      "category": "Groups"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Other_Dishes_Orange_Juice.png",
+    "name": "Orange Juice",
+    "level": 5,
+    "group": "Other",
+    "flavors": [
+      "Sour",
+      "Sweet"
+    ],
+    "temperatures": [
+      "Cold"
+    ],
+    "colors": [
+      "Orange"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Orange.png",
+        "name": "Orange\n",
+        "category": "Crop"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Strawberry_Group.png",
+      "name": "Strawberry Group\n",
+      "category": "Groups"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Other_Dishes_Coffee.png",
+    "name": "Coffee",
+    "level": 5,
+    "group": "Other",
+    "flavors": [
+      "Sour"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "Brown",
+      "Black"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Coffee_Powder.png",
+        "name": "Coffee Powder\n",
+        "category": "MakerByproduct"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Honey_Group.png",
+      "name": "Honey Group\n",
+      "category": "Groups"
+    },
+    "how_to": "",
+    "lovett": 2
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Other_Dishes_Yogurt_Drink.png",
+    "name": "Yogurt Drink",
+    "level": 4,
+    "group": "Other",
+    "flavors": [
+      "Sour",
+      "Sweet"
+    ],
+    "temperatures": [
+      "Cold"
+    ],
+    "colors": [
+      "White"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Yogurt.png",
+        "name": "Yogurt\n",
+        "category": "MakerByproduct"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Grapes.png",
+      "name": "Grapes\n",
+      "category": "Crop"
+    },
+    "how_to": "",
+    "lovett": 8
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Other_Dishes_Hot_Milk.png",
+    "name": "Hot Milk",
+    "level": 4,
+    "group": "Other",
+    "flavors": [
+      "Mellow"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "White"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Milk_Group.png",
+        "name": "Milk Group\n",
+        "category": "Groups"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Honey_Group.png",
+      "name": "Honey Group\n",
+      "category": "Groups"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Other_Dishes_Bread.png",
+    "name": "Bread",
+    "level": 3,
+    "group": "Other",
+    "flavors": [
+      "Mellow"
+    ],
+    "temperatures": [
+      "Room Temp"
+    ],
+    "colors": [
+      "Orange",
+      "Brown"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Flour.png",
+        "name": "Flour\n",
+        "category": "MakerByproduct"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Mayonnaise.png",
+      "name": "Mayonnaise\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Other_Dishes_Herb_Tea.png",
+    "name": "Herb Tea",
+    "level": 3,
+    "group": "Other",
+    "flavors": [
+      "Sweet"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "Green",
+      "Yellow"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_WildPlant_Sage.png",
+        "name": "Sage\n",
+        "category": "WildPlant"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Tea_Leaves.png",
+        "name": "Tea Leaves\n",
+        "category": "Crop"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Jam_Group.png",
+      "name": "Jam Group\n",
+      "category": "Groups"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Other_Dishes_Tomato_Juice.png",
+    "name": "Tomato Juice",
+    "level": 2,
+    "group": "Other",
+    "flavors": [
+      "Sour",
+      "Sweet"
+    ],
+    "temperatures": [
+      "Cold"
+    ],
+    "colors": [
+      "Red"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Tomato_Group.png",
+        "name": "Tomato Group\n",
+        "category": "Groups"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Salt.png",
+      "name": "Salt\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Other_Dishes_Cooked_White_Rice.png",
+    "name": "Cooked White Rice",
+    "level": 2,
+    "group": "Other",
+    "flavors": [
+      "Sweet"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "White"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Rice.png",
+        "name": "Rice\n",
+        "category": "Crop"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Egg_Group.png",
+      "name": "Egg Group\n",
+      "category": "Groups"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Other_Dishes_Vegetable_Juice.png",
+    "name": "Vegetable Juice",
+    "level": 1,
+    "group": "Other",
+    "flavors": [
+      "Sweet"
+    ],
+    "temperatures": [
+      "Cold"
+    ],
+    "colors": [
+      "Green"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Vegetable_Group.png",
+        "name": "Vegetable Group\n",
+        "category": "Groups"
+      },
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Groups_Vegetable_Group.png",
+        "name": "Vegetable Group\n",
+        "category": "Groups"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Lemon.png",
+      "name": "Lemon\n",
+      "category": "Crop"
+    },
+    "how_to": "",
+    "lovett": 0
+  },
+  {
+    "icon": "/ot/static/icons/50px-SOS_Pioneers_Items_Other_Dishes_Tea.png",
+    "name": "Tea",
+    "level": 1,
+    "group": "Other",
+    "flavors": [
+      "Sweet"
+    ],
+    "temperatures": [
+      "Warm"
+    ],
+    "colors": [
+      "Brown"
+    ],
+    "ingredients": [
+      {
+        "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_Crop_Tea_Leaves.png",
+        "name": "Tea Leaves\n",
+        "category": "Crop"
+      }
+    ],
+    "topping": {
+      "icon_file": "/ot/icons/50px-SOS_Pioneers_Items_MakerByproduct_Sugar.png",
+      "name": "Sugar\n",
+      "category": "MakerByproduct"
+    },
+    "how_to": "",
+    "lovett": 0
+  }
+]

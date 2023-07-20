@@ -13,7 +13,7 @@ function RecipeList({foodGroups, lovettLevel}: RecipeListProps) {
 
     useEffect(() => {
         async function startFetching() {
-            const recipesResp = await fetch(`http://abandonedfactory.net/games/sos/all_recipes_v2.json`);
+            const recipesResp = await fetch(`/ot/all_recipes_v2.json`);
             const r = await recipesResp.json() as Recipe[];
             if (!ignore) {
                 // Sort the master list by level, then by group
