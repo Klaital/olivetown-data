@@ -69,7 +69,7 @@ function RecipeList({foodGroups, lovettLevel}: RecipeListProps) {
                                checked={selectedRecipes.includes(recipe.name)}
                         />
                     </td>
-                    <td>{recipe.name}</td>
+                    <td><img alt={recipe.name+ ' icon'} src={recipe.icon} />{recipe.name}</td>
                     <td>{recipe.group}</td>
                     <td>{recipe.level}</td>
                     <td>

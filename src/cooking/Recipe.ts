@@ -26,6 +26,7 @@ export type Item = {
 }
 export type Recipe = {
     name: string,
+    icon: string,
     ingredients: Item[],
     flavors: string[],
     temperatures: string[],
